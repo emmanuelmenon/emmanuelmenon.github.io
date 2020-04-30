@@ -1,0 +1,13 @@
+name: 'Emmanuel Menon'
+url: 'https://emmanuelmenon.github.io'
+description: null
+permalink: '/:year/:month/:day/:title/'
+paginate: 3
+plugins:
+    - jekyll-paginate
+exclude:
+    - README.md
+    - Gemfile.lock
+    - Gemfile
+    - Rakefile
+excerpt_separator: '<!--more-->'
