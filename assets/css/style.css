@@ -57,7 +57,8 @@ sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
 code {
-    font: .95em Ubuntu Mono, Courier, Monospace;
+    font-family: "Ubuntu Mono", monospace;
+	font-size: .95em Ubuntu Mono, Courier, Monospace;
 }
 
 blockquote {
