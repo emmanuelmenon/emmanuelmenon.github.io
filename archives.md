@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Archives | Emmanuel Menon
+title: The Archives
 ---
 <hr>
 <div id="search-container" style="width: 100%">

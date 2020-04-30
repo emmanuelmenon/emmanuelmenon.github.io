@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume | Emmanuel Menon
+title: Resume
 ---
 <hr>
 <h1>Contact Info</h1>
