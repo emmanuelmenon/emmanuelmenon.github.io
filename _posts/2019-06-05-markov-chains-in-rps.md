@@ -4,6 +4,8 @@ title: Programming an RPS Bot - Part 2 - Markov Chains
 tags: sciencementors2019 python
 author: Emmanuel Menon
 lang: en_AU
+sitemap:
+  lastmod: 2019-06-05
 ---
 ## What are Markov Chains?
 Markov Chains are stochastic models that demonstrate the probability of transition from one state to another. For example, imagine that every single day, I have two options. I can either go for a run, or not go for a run. The probability of me **not** going for a run today is 65%, which means that the probability of me going for a run today has to be 35%. However, if I decided to go for a run yesterday, the chances of me going for run today might be higher (let's say about 70%), which means that there is a lower chance of me not running today. But if I decided not to go for a run yesterday, I probably won't go for a run today either (let's assume that the chances of me not running today after I didn't run yesterday is about 55%). So how would I represent this using a Markov Chain model?

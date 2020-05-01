@@ -4,6 +4,8 @@ title: Programming an RPS Bot - Part 1 - Frequency Analysis and Randomness
 tags: sciencementors2019 python
 author: Emmanuel Menon
 lang: en_AU
+sitemap:
+  lastmod: 2019-06-30
 ---
 ## Random Choice
 I began with creating the simplest bot I could think of. A bot which picks randomly every time.<!--more--> Here's the code:
