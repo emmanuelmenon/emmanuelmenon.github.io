@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+description: High-achieving and ambitious student with a passion for learning and a strong work ethic. Developed numerous plugins and websites with a wide understanding of an array of programming languages. Completed multiple online learning courses in the fields of...
 ---
 ## Contact Info
 - Phone Number: +61 432 847 064

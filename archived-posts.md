@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archived Posts
+description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none of these posts will provide enlightenment on any subject. They might however, provide brief entertainment.
 ---
 <div id="search-container" style="width: 100%">
 <h1>Search:</h1>

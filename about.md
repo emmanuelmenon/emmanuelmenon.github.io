@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: Learn more about Emmanuel Menon, the author of a "fantastic" blog which covers everything from films to fiction to coding!
 ---
 <img src="../assets/images/aboutpage-profile.jpg" class="right" style="width: 35%; border-radius: 25px">
 Hey there! Welcome to my blog! I'm Emmanuel Menon, a world-renowned recluse who enjoys watching films and learning new things, things that I will probably never use in day to day life. Pictured to the right is me, emerging from my cave after watching all 10 episodes of the Dekalog.
