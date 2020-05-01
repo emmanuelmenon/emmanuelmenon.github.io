@@ -5,4 +5,9 @@ The changes I have made include:
 - Instant search bar
 - Fontawesome integration
 - Cleaner mobile menu
-- Removal of jquery
+- Removed of jquery
+- Better navigation
+- Tags
+- Disqus Integration
+- SEO optimisation and automation
+- Colour scheme improvement
