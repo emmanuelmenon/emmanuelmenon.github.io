@@ -123,10 +123,10 @@ hr {
 
 #header {
 	width: 500px;
-	margin: 40px auto 0px auto;
+	margin: 20px auto 0px auto;
 }
 #header h1 {
-	font-size: 30px;
+	font-size: 35px;
 	margin-bottom: 0;
 }
 #header h1 a {
@@ -233,7 +233,7 @@ div.post-content img {
 }
 
 
-
+hr.navhr {display: none;}
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
 	#page, #header, #content, #footer {
@@ -241,19 +241,24 @@ div.post-content img {
 		padding-left: 10px;
 		padding-right: 10px;
 	}
-
+	#header h1 {
+		font-size: 28px;
+		padding-left: 12px;
+	}
 	#sidebar {
 		position: initial;
 		text-align: left;
 		width: 100%;
 		left: 0;
-		margin: 10px 10px 20px 10px;
+		margin: 10px 10px 10px 10px;
 	}
-
-	#sidebar nav select.mnav {
+	#sidebar ul {
+		padding: 0;
+	}
+	#sidebar li {
 		display: block;
-		margin-bottom: 15px;
 	}
+	hr.navhr { display: block; }
 }
 
 /*** Append colors-dark.css ***/
