@@ -9,7 +9,7 @@ social:
     - https://github.com/emmanuelmenon
     - https://letterboxd.com/emmanuelmenon
 permalink: '/:year/:month/:day/:title/'
-paginate: 3
+paginate: 6
 plugins:
     - jekyll-paginate
     - jekyll-seo-tag
