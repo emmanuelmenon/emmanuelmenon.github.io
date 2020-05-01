@@ -1,5 +1,4 @@
 User-Agent: *
-Disallow:
 Disallow: /404.html
 Disallow: /search.json
 Disallow: /assets/
