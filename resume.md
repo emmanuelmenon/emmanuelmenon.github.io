@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume - Emmanuel Menon
+title: Resume
 ---
 ## Contact Info
 - Phone Number: +61 432 847 064

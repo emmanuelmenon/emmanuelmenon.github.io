@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archived Posts - Emmanuel Menon
+title: Archived Posts
 ---
 <div id="search-container" style="width: 100%">
 <h1>Search:</h1>
