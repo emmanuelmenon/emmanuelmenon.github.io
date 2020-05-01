@@ -2,7 +2,8 @@
 layout: post
 title: Switching Between Jekyll Themes
 tags: webdevelopment
-teaser: Possibly the most painful thing I've ever done
+author: Emmanuel Menon
+lang: en_AU
 ---
 Last night, I decided to switch Jekyll themes. The previous one didn't look that great and there was an extremely weird bug (which I couldn't fix). This bug essentially made it so that the entire site would appear to be normal, ***EXCEPT FOR ABOUT HALF A MONITOR'S WORTH OF WHITESPACE*** on the right side. This pissed me off to such an extent that I just decided to switch to another theme. After checking out some [themes](https://jekyllthemes.io/free), I finally picked [Hyde](https://hyde.getpoole.com). Hyde looked great, was (relatively) minimalistic and seemed easily configurable which suits my needs perfectly.
 <!--more-->

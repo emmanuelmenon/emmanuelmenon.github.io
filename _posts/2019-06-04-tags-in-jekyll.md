@@ -2,6 +2,8 @@
 layout: post
 title: Setting Up a Tagging System for a Jekyll Blog
 tags: webdevelopment
+author: Emmanuel Menon
+lang: en_AU
 ---
 After doing the initial setup for my GitHub Pages hosted site (which I have detailed [here]({{ site.baseurl }}{% post_url 2019-05-30-painful-setup %})), I decided to add a tagging system to my site. How hard can it be? I asked myself. Turns out it isn't very hard at all (especially when compared to setting up Hyde for Jekyll).
 <!--more-->

@@ -1,10 +1,18 @@
 name: 'Emmanuel Menon'
-url: 'https://emmanuelmenon.com'
-description: null
+author: 'Emmanuel Menon'
+url: 'https://www.emmanuelmenon.com/'
+description: 'Directly from the "incredible" mind of Emmanuel Menon, this blog covers everything from film to fiction to coding!'
+lang: 'en_AU'
+social:
+  links:
+    - https://twitter.com/emmanuelhmenon
+    - https://github.com/emmanuelmenon
+    - https://letterboxd.com/emmanuelmenon
 permalink: '/:year/:month/:day/:title/'
 paginate: 3
 plugins:
     - jekyll-paginate
+    - jekyll-seo-tag
 exclude:
     - README.md
     - Gemfile.lock

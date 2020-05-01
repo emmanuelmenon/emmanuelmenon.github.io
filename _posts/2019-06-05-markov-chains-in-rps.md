@@ -2,6 +2,8 @@
 layout: post
 title: Programming an RPS Bot - Part 2 - Markov Chains
 tags: sciencementors2019 python
+author: Emmanuel Menon
+lang: en_AU
 ---
 ## What are Markov Chains?
 Markov Chains are stochastic models that demonstrate the probability of transition from one state to another. For example, imagine that every single day, I have two options. I can either go for a run, or not go for a run. The probability of me **not** going for a run today is 65%, which means that the probability of me going for a run today has to be 35%. However, if I decided to go for a run yesterday, the chances of me going for run today might be higher (let's say about 70%), which means that there is a lower chance of me not running today. But if I decided not to go for a run yesterday, I probably won't go for a run today either (let's assume that the chances of me not running today after I didn't run yesterday is about 55%). So how would I represent this using a Markov Chain model?
@@ -22,8 +24,8 @@ But what if there were three states? Or four states? Or five state? It gets pain
 A transition matrix is used to show the possibility of each transition within a table. Every state is used once as a row and as a column and each cell shows the probabilty of transitioning from one state to another. A transition matrix for the running model would look like this (P is shorthand for probability).
 
 | | Running | Not Running |
-| Running | P(Running -> Running): *70%* | P(Running -> Not Running): *30%*
-| Not Running | P(Not Running -> Running): *45%* | P(Not Running -> Not Running): *55%*
+| Running | P(Running -> Running): *70%* | P(Running -> Not Running): *30%* |
+| Not Running | P(Not Running -> Running): *45%* | P(Not Running -> Not Running): *55%* |
 
 This introduction to Markov Chains was extremely simple, as I just wanted to introduce the concept before explaining my code. Markov Chains can be used for a lot of other things and I recommend you do your own research as well. Some useful links:
 - <http://setosa.io/blog/2014/07/26/markov-chains/index.html>
