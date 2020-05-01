@@ -5,8 +5,8 @@ description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none o
 ---
 <div id="search-container" style="width: 100%">
 <h1>Search:</h1>
-    <input style="width: 100%; height: 32px; border: 1px solid white; border-radius: 10px" type="text" id="search-input" placeholder="good content?">
-    <ul style="padding-bottom: 5px" id="results-container"></ul>
+    <input type="text" id="search-input" placeholder="good content?">
+    <ul id="results-container"></ul>
 </div>
 <hr>
 <div id="blog-archives">
@@ -28,7 +28,7 @@ description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none o
 
 <script>
 SimpleJekyllSearch({
-    searchResultTemplate: '<li style="">{date}: <a href="{url}">{title}</a></li>',
+    searchResultTemplate: '<li>{date}: <a href="{url}">{title}</a></li>',
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     limit: 10,

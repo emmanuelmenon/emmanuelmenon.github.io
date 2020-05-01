@@ -144,6 +144,12 @@ hr {
 	border-top: 1px solid;
 }
 
+#footer i {
+	float: right;
+	padding-top: 5px;
+	padding-left: 5px
+}
+
 #content {
 	width: 500px;
 	margin: 0 auto;
@@ -169,6 +175,20 @@ hr {
 	padding: 0;
 }
 
+#search-input {
+	width: 100%;
+	height: 32px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+
+#results-container {
+	padding-bottom: 5px;
+}
+
+.post-date {
+	margin-bottom: 5px;
+}
 
 /*** Posts ***/
 article {
@@ -220,7 +240,7 @@ img.center {
 
 /*** Pagination ***/
 .postnavigation {
-	padding-top: 10px;
+	padding-top: 0;
     text-align: center;
     font-size: 0.85em;
 }

@@ -11,7 +11,7 @@ description: The homepage of the blog of the recluse known only as Emmanuel Meno
 			</a>
 		</h1>
 		<sup>
-			<p style="margin-bottom: 5px;"><i>{{post.date | date: "%B %d, %Y" }}</i>
+			<p class="post-date"><i>{{post.date | date: "%B %d, %Y" }}</i>
 			</p>
 		</sup>
 		<div class="post-content">
@@ -22,7 +22,7 @@ description: The homepage of the blog of the recluse known only as Emmanuel Meno
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-	<div style="padding-top: 0;" class="postnavigation">
+	<div class="postnavigation ">
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
 				<a class="prev left" href="/">&larr; Newer</a>
