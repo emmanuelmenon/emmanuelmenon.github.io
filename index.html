@@ -11,7 +11,7 @@ title: Home
 			</h1>
 			<sup><p><i>{{post.date | date: "%B %d, %Y" }}</i></p></sup>
 		{% else %}
-			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1><sup><p style="margin-bottom: 5px;"><i>{{post.date | date: "%B %d, %Y" }}</i></p></sup>
+			<h1 class="nomargin"><a href="{{ post.url }}">{{ post.title }}</a></h1><sup><p style="margin-bottom: 5px;"><i>{{post.date | date: "%B %d, %Y" }}</i></p></sup>
 			<div class="post-content">{{ post.excerpt | strip_html }}(<a href="{{ post.url }}">Continue Reading</a>)</div>
 		{% endif %}
 	</article>
