@@ -3,7 +3,7 @@ layout: post
 title: Programming an RPS Bot - Part 1 - Frequency Analysis and Randomness
 tags: sciencementors2019 python
 ---
-### Random Choice
+## Random Choice
 I began with creating the simplest bot I could think of. A bot which picks randomly every time. Here's the code:
 
 <!--more-->
@@ -23,7 +23,7 @@ You can play against the random choice bot [here](http://www.rpscontest.com/huma
 
 ***
 
-### Frequency Analysis
+## Frequency Analysis
 Since both of these bots aren't too complex, I decided to just chuck both my explanations in a single post.
 
 This bot essentially returns a move that counters the user's preferred input.
