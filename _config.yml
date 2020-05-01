@@ -8,6 +8,9 @@ social:
     - https://twitter.com/emmanuelhmenon
     - https://github.com/emmanuelmenon
     - https://letterboxd.com/emmanuelmenon
+twitter:
+  username: emmanuelhmenon
+  card: 'Directly from the "incredible" mind of Emmanuel Menon, this blog covers everything from film to fiction to coding!'
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 plugins:

@@ -136,6 +136,13 @@ hr {
 	border: none;
 }
 
+nav ul {
+	padding: 9px 20px 9px 0;
+	border: 2px solid;
+	border-color: rgba(255, 255, 255, 0.1);
+	border-radius: 25px;
+}
+
 #footer {
 	width: 500px;
 	margin: 10px auto 20px auto;
@@ -160,7 +167,7 @@ hr {
 	text-align: right;
 	width: 160px;
 	top: 0;
-	left: -240px;
+	left: -200px;
 }
 
 #sidebar li {
@@ -268,8 +275,8 @@ hr.navhr {display: none;}
 	}
 	#sidebar {
 		position: initial;
-		text-align: left;
-		width: 100%;
+		text-align: center;
+		width: 93%;
 		left: 0;
 		margin: 10px 10px 10px 10px;
 	}
