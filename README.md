@@ -4,3 +4,5 @@ The changes I have made include:
 - Numerous styling changes, for readabilty and accessibility
 - Instant search bar
 - Fontawesome integration
+- Cleaner mobile menu
+- Removal of jquery
