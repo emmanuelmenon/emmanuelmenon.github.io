@@ -1,8 +1,7 @@
 ---
 layout: default
-title: The Archives
+title: Archive
 ---
-<hr>
 <div id="search-container" style="width: 100%">
 <h1>Search:</h1>
     <input style="width: 100%; height: 32px; border: 1px solid white; border-radius: 10px" type="text" id="search-input" placeholder="good content?">
