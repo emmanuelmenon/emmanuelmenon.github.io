@@ -85,11 +85,11 @@ h1 {
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 16px;
+	font-size: 15.5px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 15px;
+	font-size: 14.5px;
 	margin: 0 0 10px 0;
 }
 hr {
@@ -177,10 +177,10 @@ article {
 
 article h1 {
 	font-size: 17px;
-	margin: 0 0 10px 0;
+	margin: 0;
 }
 article h2 {
-	margin-bottom: 1px;
+	margin: 0px;
 }
 article h1 a {
 	border: none;
