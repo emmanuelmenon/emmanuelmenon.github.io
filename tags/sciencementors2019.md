@@ -4,7 +4,6 @@ tag: sciencementors2019
 title: Science Mentors 2019
 description: A collection of blog posts written about my experiences in the 2019 Science Mentors program.
 ---
-<hr>
 This year, I enrolled in a program called Science Mentors ACT. The aim of this program is to help students from year 9-12 in the ACT get better at science by pairing them up with a mentor who is proficient in the student's chosen field of study. The student will then write a scientific paper in collaboration with their mentor.
 
 Once accepted into the program, Mr. O'Donohue and I looked at a bunch of different ideas for projects. Some examples include:
