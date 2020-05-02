@@ -1,25 +1,23 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113299202-5"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-
         function gtag() {
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
         gtag('config', 'UA-113299202-5');
     </script>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
+
     <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
     <link href="/assets/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet" defer>
@@ -27,11 +25,10 @@
     <script src="https://kit.fontawesome.com/d4631c719c.js" crossorigin="anonymous" defer></script>
     <link rel='icon' href="/assets/images/favicon.png" type='image/x-icon' defer>
 
-        {% seo %}
+    {% seo %}
 </head>
 
 <body>
-
     <header id="header">
         <h1><a href="/">Emmanuel Menon</a></h1>
     </header>
@@ -50,15 +47,11 @@
             </nav>
         </div>
         <hr class="navhr">
-        <div id="content">
-            {{ content }}
-        </div>
+        <div id="content">{{ content }}</div>
     </div>
 
     <footer id="footer">
         <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} Emmanuel Menon <a href="https://twitter.com/emmanuelhmenon"><i class="fab fa-twitter fa-lg"></i></a><a href="/feed.xml"><i class="fas fa-rss-square fa-lg"></i></a><a href="https://www.instagram.com/emmanuel.menon/"><i class="fab fa-instagram fa-lg"></i></a><a href="https://www.youtube.com/channel/UCacVgm8W7PZ_ykkMx4z-mBg"><i class="fab fa-youtube fa-lg"></i></a><a href="https://github.com/emmanuelmenon"><i class="fab fa-github fa-lg"></i></a></p>
     </footer>
-
 </body>
-
 </html>
