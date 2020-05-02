@@ -7,7 +7,6 @@ The changes I have made include:
 - Cleaner mobile menu
 - Removed of jquery
 - Better navigation
-- Tags
-- Disqus Integration
+- Tagging system
 - SEO optimisation and automation
 - Colour scheme improvement
