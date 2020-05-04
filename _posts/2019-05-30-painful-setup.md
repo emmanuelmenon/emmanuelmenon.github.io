@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switching Between Jekyll Themes
-tags: webdevelopment
+tags: webdevelopment programming
 author: Emmanuel Menon
 lang: en_AU
 sitemap:
