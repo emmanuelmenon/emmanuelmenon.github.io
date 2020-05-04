@@ -5,7 +5,7 @@ description: High-achieving and ambitious student with a passion for learning an
 ---
 ## Contact Info
 - Phone Number: +61 432 847 064
-- E-mail Address: [&#101;&#109;&#109;&#097;&#110;&#117;&#101;&#108;&#046;&#104;&#097;&#114;&#105;&#115;&#104;&#046;&#109;&#101;&#110;&#111;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](mailto:&#101;&#109;&#109;&#097;&#110;&#117;&#101;&#108;&#046;&#104;&#097;&#114;&#105;&#115;&#104;&#046;&#109;&#101;&#110;&#111;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+- E-mail Address: [emmanuel.harish.menon[at]gmail.com](mailto:emmanuel.harish.menon@gmail.com)
 
 ## Professional Summary
 **High-achieving** and **ambitious student** with a passion for learning and a **strong work ethic**. Developed **numerous plugins and websites** with a wide understanding of an array of programming languages. Completed multiple online learning courses in the fields of **artificial intelligence** ("*Elements of AI*" - University of Helsinki) and **computer science** ("*Introduction to Computer Science and Programming in Python*" - MIT). Currently working on a **feature film script**, with multiple shorts already completed.
