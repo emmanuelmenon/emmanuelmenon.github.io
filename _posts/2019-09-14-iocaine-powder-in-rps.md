@@ -4,6 +4,7 @@ title: Programming an RPS Bot - Part 3 - Iocaine Powder
 tags: sciencementors2019 python programming
 author: Emmanuel Menon
 lang: en_AU
+comments: true
 sitemap:
   lastmod: 2019-09-14
 ---

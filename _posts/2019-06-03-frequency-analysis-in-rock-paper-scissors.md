@@ -4,6 +4,7 @@ title: Programming an RPS Bot - Part 1 - Frequency Analysis
 tags: sciencementors2019 python programming
 author: Emmanuel Menon
 lang: en_AU
+comments: true
 sitemap:
   lastmod: 2019-06-30
 ---

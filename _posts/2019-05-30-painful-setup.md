@@ -4,6 +4,7 @@ title: Switching Between Jekyll Themes
 tags: webdevelopment programming
 author: Emmanuel Menon
 lang: en_AU
+comments: true
 sitemap:
   lastmod: 2019-05-30
 ---
