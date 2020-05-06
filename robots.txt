@@ -3,5 +3,6 @@ User-Agent: *
 Disallow: /assets/
 Disallow: /search.json
 Disallow: /404.html
+Disallow: /community-guidelines.html
 
 Sitemap: https://www.emmanuelmenon.com/sitemap.xml
