@@ -1,3 +1,7 @@
 User-Agent: *
 
+Disallow: /assets/
+Disallow: /search.json
+Disallow: /404.html
+
 Sitemap: https://www.emmanuelmenon.com/sitemap.xml
