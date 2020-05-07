@@ -49,8 +49,10 @@ Each film in a double feature should complement the other, enhancing your unders
     - A Wes Anderson animated double feature. I haven't personally done this double feature, although I have watched both of these excellent films.
 - [Taxi Driver](https://www.justwatch.com/us/movie/taxi-driver) & [Nightcrawler](https://www.justwatch.com/us/movie/nightcrawler)
     - A double feature containing unnerving, mentally unstable characters. Again, I haven't actually done this double feature, although both of these films are fantastic.
+- [Letterboxd User Recommendations](https://letterboxd.com/search/Double+Features/)
+    - Each odd-numbered film is linked to the next even-numbered film
 - [Edgar Wright's recommendations](https://twitter.com/search?q=Double%20bill%20for%20the%20day%3A%20(from%3Aedgarwright)&f=live)
     - Since everything went into lockdown, Edgar Wright has been posting double features once every couple of days. In fact, this article was partially inspired by his tweeting.
 - [ACMI's Virtual Cinémathèque](https://www.acmi.net.au/events/melbourne-cinematheque/)
     - The Melbourne Cinematheque has partnered with ACMI to deliver a double feature every Wednesday. They add annotations and introductions where possible.
-- <a href="https://www.reddit.com/search/?q=Double%20Features%20(subreddit%3Atruefilm%20OR%20subreddit%3Amovies">Check Reddit!</a>
+- <a href="https://www.reddit.com/search/?q=Double%20Features%20(subreddit%3Atruefilm%20OR%20subreddit%3Amovies)">Check Reddit!</a>
