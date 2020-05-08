@@ -12,6 +12,6 @@ If you are interested, check out my film reviews on [LetterBoxd](https://letterb
 
 ## Possible Future Blog Posts
 ```
-- Implementing a "Post Speedread" Pop-up
+- Dan Harmon's Story Circle
 - The James Bond Formula
 ```
