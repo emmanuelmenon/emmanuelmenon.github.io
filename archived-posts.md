@@ -24,7 +24,7 @@ description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none o
     {% endfor %}
 </div>
 
-<script src="../assets/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+<script src="../assets/js/simple-jekyll-search.js" type="text/javascript"></script>
 
 <script>
 SimpleJekyllSearch({
