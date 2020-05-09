@@ -1,10 +1,9 @@
 ---
 layout: post
-title: A Guide to Double Features
+title: "Double Features: A Guide"
 tags: doublefeatures film
 author: Emmanuel Menon
 lang: en_AU
-comments: true
 sitemap:
   lastmod: 2020-05-06
   priority: 0.9

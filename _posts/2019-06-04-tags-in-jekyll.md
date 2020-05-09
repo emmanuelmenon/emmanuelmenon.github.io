@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Setting Up a Tagging System for a Jekyll Blog
+title: "Setting Up a Tagging System for a Jekyll Blog"
 tags: webdevelopment programming
 author: Emmanuel Menon
 lang: en_AU
-comments: true
 sitemap:
   lastmod: 2019-06-04
 ---
