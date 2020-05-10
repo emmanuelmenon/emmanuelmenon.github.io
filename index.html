@@ -3,6 +3,14 @@ layout: default
 title: Home Page
 description: The homepage of the blog of the recluse known only as Emmanuel Menon
 ---
+<div id="search-container" style="width: 100%">
+<h1>Search:</h1>
+    <input type="text" id="search-input" placeholder="good content?">
+    <ul id="results-container"></ul>
+</div>
+
+<hr>
+
 {% for post in paginator.posts %}
 	<article class="post" style>
 		<h1 class="nomargin">
@@ -18,7 +26,7 @@ description: The homepage of the blog of the recluse known only as Emmanuel Meno
 			{{ post.excerpt | strip_html  }}(<a href="{{ post.url }}">Continue Reading</a>)
 		</div>
 	</article>
-	<hr>
+	{% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
@@ -42,3 +50,15 @@ description: The homepage of the blog of the recluse known only as Emmanuel Meno
 		{% endif %}
 	</div>
 {% endif %}
+<script src="../assets/js/simple-jekyll-search.js" type="text/javascript"></script>
+<script>
+SimpleJekyllSearch({
+    searchResultTemplate: '<li>{date}: <a href="{url}">{title}</a></li>',
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    limit: 10,
+    fuzzy: true,
+    noResultsText: 'No results found',
+    json: '/search.json'
+})
+</script>

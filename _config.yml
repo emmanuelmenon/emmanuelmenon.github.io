@@ -12,7 +12,7 @@ twitter:
   username: emmanuelhmenon
   card: 'Directly from the "incredible" mind of Emmanuel Menon, this blog covers everything from film to fiction to coding!'
 permalink: '/:year/:month/:day/:title/'
-paginate: 10
+paginate: 5
 plugins:
     - jekyll-paginate
     - jekyll-seo-tag

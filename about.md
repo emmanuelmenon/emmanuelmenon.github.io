@@ -21,6 +21,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/the-films-of-greta-gerwig-ranked/)
 
 ### Uncompleted Filmographies
+- Alfred Hitchcock
 - Andrei Tarkovsky
 - Akira Kurosawa
 - Brian De Palma
@@ -30,13 +31,16 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Denis Villenueve
 - [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/the-films-of-guillermo-del-toro/)
 - Krzysztof Kieślowski
+- Ingmar Bergman
 - Jean-Pierre Melville
 - Martin Scorsese
 - Paul Thomas Anderson
+- Ramin Bahrain
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/the-films-of-the-safdie-brothers/)
 - Sean Price Williams (cinematographer, known for his work on independent films)
 - Stanley Kubrick
 - Steven Soderbergh
+- Werner Herzog
 - Wes Anderson
 
 ### Lists I want to complete
