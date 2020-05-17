@@ -14,34 +14,39 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 
 ## Lists
 ### Completed Filmographies
-- [Quentin Tarantino](https://letterboxd.com/emmanuelmenon/list/the-films-of-quentin-tarantino-ranked/)
-- [Edgar Wright](https://letterboxd.com/emmanuelmenon/list/the-films-of-edgar-wright-ranked/)
-- [Taika Waititi](https://letterboxd.com/emmanuelmenon/list/the-films-of-taika-waititi-ranked/)
-- [Martin McDonagh](https://letterboxd.com/emmanuelmenon/list/the-films-of-martin-mcdonagh-ranked/)
-- [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/the-films-of-greta-gerwig-ranked/)
+- [Quentin Tarantino](https://letterboxd.com/emmanuelmenon/list/films-by-quentin-tarantino-ranked/)
+- [Edgar Wright](https://letterboxd.com/emmanuelmenon/list/films-by-edgar-wright-ranked/)
+- [Taika Waititi](https://letterboxd.com/emmanuelmenon/list/films-by-taika-waititi-ranked/)
+- [Martin McDonagh](https://letterboxd.com/emmanuelmenon/list/films-by-martin-mcdonagh-ranked/)
+- [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/films-by-greta-gerwig-ranked/)
 
 ### Uncompleted Filmographies
 - Alfred Hitchcock
 - Andrei Tarkovsky
 - Akira Kurosawa
 - Brian De Palma
-- [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/the-films-of-the-coen-brothers/)
-- [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/the-films-of-damien-chazelle/)
-- [David Fincher](https://letterboxd.com/emmanuelmenon/list/the-films-of-david-fincher/)
+- Bong Joon Ho
+- Christopher Nolan
+- [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
+- [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle/)
+- David Cronenberg
+- [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher/)
 - Denis Villenueve
-- [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/the-films-of-guillermo-del-toro/)
+- [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/films-by-guillermo-del-toro/)
 - Krzysztof Kieślowski
 - Ingmar Bergman
 - Jean-Pierre Melville
 - Martin Scorsese
+- Paul Schrader
 - Paul Thomas Anderson
+- Park Chan-wook
 - Ramin Bahrain
-- [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/the-films-of-the-safdie-brothers/)
+- [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers/)
 - Sean Price Williams (cinematographer, known for his work on independent films)
 - Stanley Kubrick
 - Steven Soderbergh
 - Werner Herzog
-- Wes Anderson
+- [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson/)
 
 ### Lists I want to complete
 - [My Own Watchlist](https://letterboxd.com/emmanuelmenon/watchlist/)
