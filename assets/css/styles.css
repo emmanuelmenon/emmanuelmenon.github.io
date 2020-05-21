@@ -101,7 +101,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
      margin: 0;
 }
  hr {
-     border-top: 1px solid #fff;
+     border-top: 2px solid #fff;
      opacity: 10%;
      margin: 10px 0 10px 0;
 }
@@ -153,6 +153,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
      width: 500px;
      margin: 0 auto;
      position: relative;
+     text-align: justify;
 }
  #header {
      width: 500px;
@@ -179,7 +180,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
      margin: 10px auto 20px auto;
      padding-top: 10px;
      font-size: .85em;
-     border-top: 1px solid;
+     border-top: 2px solid;
 }
  #footer i {
      float: right;
@@ -225,7 +226,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
  #search-result {
      text-align: center;
-
      border-bottom: 1px solid;
      border-top: none;
      border-color: rgba(255,255,255,.1);
@@ -254,9 +254,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
  .post-teaser {
      border-top: 2px solid;
      border-color: rgba(255,255,255,.1);
-     border-radius: 25px;
-     padding: 15px;
-     padding-top: 7.5px;
+     padding: 5px 0;
      margin: 10px 0;
 }
  img.left {

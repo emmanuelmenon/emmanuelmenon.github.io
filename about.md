@@ -36,14 +36,16 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/films-by-guillermo-del-toro/)
 - Krzysztof Kieślowski
 - Ingmar Bergman
+- Jean-Luc Godard
 - Jean-Pierre Melville
 - Martin Scorsese
 - Paul Schrader
 - Paul Thomas Anderson
 - Park Chan-wook
 - Ramin Bahrain
+- Richard Linklater
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers/)
-- Sean Price Williams (cinematographer, known for his work on independent films)
+- Sean Price Williams (cinematographer)
 - Stanley Kubrick
 - Steven Soderbergh
 - Virgil Vernier
