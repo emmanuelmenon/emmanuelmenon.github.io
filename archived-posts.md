@@ -6,7 +6,7 @@ description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none o
 <hr>
 <div id="blog-archives">
     <h1>Browse:</h1>
-    <ol reversed>
+    <ul>
         {% for post in site.posts %}
         <li>
             <article class="post" style="line-height: 2;">
@@ -14,5 +14,5 @@ description: Archived posts from the blog of Emmanuel Menon. Disclaimer - none o
             </article>
         </li>
         {% endfor %}
-    </ol>
+    </ul>
 </div>

@@ -6,14 +6,22 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
      font: inherit;
      vertical-align: baseline;
 }
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
  article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
      display: block;
 }
  body {
      line-height: 1;
 }
- ol,ul {
-     list-style: bullet;
+ ol {
+     list-style-type: decimal-leading-zero;
+}
+
+ul {
+    list-style-type: circle;
 }
  blockquote,q {
      quotes: none;
@@ -30,10 +38,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
      font-family: Ubuntu,sans-serif;
      font-size: 14px;
      line-height: 1.75;
-}
- * {
-     -webkit-font-smoothing: antialiased;
-     -moz-osx-font-smoothing: grayscale;
 }
  a,a:active,a:visited {
      text-decoration: none;

@@ -33,6 +33,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - David Cronenberg
 - [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher/)
 - Denis Villenueve
+- François Truffaut
 - [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/films-by-guillermo-del-toro/)
 - Krzysztof Kieślowski
 - Ingmar Bergman
