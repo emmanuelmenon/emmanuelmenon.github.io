@@ -16,9 +16,11 @@ paginate: 5
 plugins:
     - jekyll-paginate
     - jekyll-seo-tag
+    - rouge
 exclude:
     - README.md
     - Gemfile.lock
     - Gemfile
     - Rakefile
 excerpt_separator: '<!--more-->'
+highlighter: rouge
