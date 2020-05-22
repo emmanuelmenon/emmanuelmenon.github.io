@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<hr style="margin-bottom: 7.5px">
+<hr style="margin-bottom: 5px">
 <article class="post">
     <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
     <div class="post-content">{{ content }}</div>
     <hr>
     <p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
-    <p class="meta">Tagged with:&nbsp;
+    <p class="meta">Tagged with:
         {% for tag in page.tags %}
             <a href="/tag/{{ tag }}/"><i class="fa fa-tag fa-xs"></i>{{ tag }}</a>
-            {% unless tag == page.tags.last %}&nbsp;/&nbsp;&nbsp;{% endunless %}
+            {% unless tag == page.tags.last %}/&nbsp;{% endunless %}
         {% endfor %}
     </p>
 </article>
