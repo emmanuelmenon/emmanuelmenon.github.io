@@ -10,8 +10,9 @@ sitemap:
 I'm a subscriber to [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) on YouTube, a channel that posts these amazingly well-edited, informative video essays once every month. Their most recent video, titled "The Movie That Changed Movies" discussed 1967's Bonnie and Clyde, and it's undeniable impact on American cinema. They also mention the impact that the French New Wave had on Bonnie and Clyde and pointed out two in particular: Breathless, a film by Jean-Luc Godard, as well as, Jules et Jim, a film by François Truffaut.
 
 <!--more-->
-
-<iframe width="100%" height="338" src="https://www.youtube.com/embed/0wI4HXBH9Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper" style="--aspect-ratio: 9 / 16;">
+<iframe width="10%" height="338" src="https://www.youtube.com/embed/0wI4HXBH9Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I knew absoutely nothing about the French New Wave movement. So, I decided to learn about it. Following along with the principle that was outlined in my [guide to double features]({% post_url 2020-05-06-double-features-a-guide %}), which stated that "the double feature [is] a way of learning — and thinking — about movies" (a quote taken from [this](https://www.nytimes.com/2016/08/17/movies/double-feature-movies-in-a-film-forum-retrospective.html) article, written by James Hoberman), I decided that I would screen a double feature of Breathless and Jules et Jim for myself.
 

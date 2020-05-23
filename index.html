@@ -4,41 +4,32 @@ title: Home Page
 description: The homepage of the blog of the recluse known only as Emmanuel Menon
 ---
 {% for post in paginator.posts %}
-	<article class="post-teaser">
-		<h1 class="nomargin">
-			<a href="{{ post.url }}">
-				{{ post.title }}
-			</a>
-		</h1>
-		<sup>
-			<p class="post-date"><i>{{post.date | date: "%B %d, %Y" }}</i>
-			</p>
-		</sup>
-		<div class="post-content">
-			{{ post.excerpt | strip_html  }}(<a href="{{ post.url }}">Continue Reading</a>)
-		</div>
-	</article>
-	<!-- {% if forloop.last == false %}<br>{% endif %} -->
+	<div class="post-teaser">
+		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<h6>{{ post.date | date: "%B %d, %Y" }}</h6>
+		<p>{{ post.excerpt | strip_html  }}(<a href="{{ post.url }}">Continue Reading</a>)</p>
+	</div>
+	<hr>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-	<div class="postnavigation">
+	<div class="paginator">
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
-				<a class="prev left" href="/">&larr; Newer</a>
+				<a class="left" href="/">&larr; Newer</a>
 			{% else %}
-				<a class="prev left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
+				<a class="left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
 			{% endif %}
 		{% else %}
-			<span class="nope left">&larr; Newer</span>
+			<span class="greyed left">&larr; Newer</span>
 		{% endif %}
 
-		<span class="pages">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
 		{% if paginator.next_page %}
-			<a class="next right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
+			<a class="right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
 		{% else %}
-			<span class="nope right">Older &rarr;</span>
+			<span class="greyed right">Older &rarr;</span>
 		{% endif %}
 	</div>
 {% endif %}
