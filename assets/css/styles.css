@@ -205,23 +205,26 @@ acronym {
 	border-bottom: 1px dashed;
 }
 
-h1 {
-	font-size: 1.35rem;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Ubuntu Mono', monospace;
 	margin: 0;
-    font-family: 'Ubuntu Mono';
+}
+
+h1 {
+	font-size: 1.31rem;
 }
 
 h2 {
-	font-size: 1.225rem;
-	margin: 0;
-    font-family: 'Ubuntu Mono';
+	font-size: 1.21rem;
 }
 
 h3 {
-	font-size: 1.15rem;
-	margin: 0;
-    font-family: 'Ubuntu Mono';
-
+	font-size: 1.11rem;
 }
 
 hr {
@@ -269,21 +272,21 @@ hr {
 }
 
 #page {
-	width: 600px;
+	width: 40%;
 	position: relative;
-	margin: 0 33%;
+	margin: 0 auto;
 }
 
 .header-img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 60%;
+	width: 55%;
 }
 
 #header {
-	width: 600px;
-	margin: 20px 33% 0;
+	width: 40%;
+	margin: 20px auto 0;
 }
 
 #header h1 {
@@ -300,12 +303,12 @@ nav ul {
 }
 
 #footer {
-	width: 600px;
+	width: 40%;
 	padding-top: 10px;
 	font-size: .85em;
 	border-top: 2px solid;
 	border-color: rgba(255, 255, 255, .1);
-	margin: 10px 33% 20px;
+	margin: 10px auto 20px;
 }
 
 #footer i {
@@ -396,7 +399,7 @@ article .meta {
 	padding: 5px 0;
 }
 .post-teaser sup {
-    font-family: Ubuntu Mono;
+    font-family: 'Ubuntu Mono';
 }
 
 img.left {
@@ -483,14 +486,10 @@ h1 a:visited {
 	#header,
 	#page {
 		width: inherit;
-        margin: 0 auto;
 		padding-left: 10px;
 		padding-right: 10px;
 	}
 
-	#header, #footer {
-        margin: 20px auto 10px;
-	}
 
 	.header-img {
 		width: 90%;
