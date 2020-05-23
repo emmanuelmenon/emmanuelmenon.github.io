@@ -23,7 +23,7 @@ body {
 
 /* text */
 p { font-size: 1em; line-height: 1.25; margin: 0.5rem 0; }
-h1 { font-size: 2.11em; font-weight: 700;}
+h1 { font-size: 2.11em; font-weight: 700; text-align: left; }
 h2 { font-size: 1.67em; }
 h3 { font-size: 1.33em; }
 h4 { font-size: 1.11em; }
@@ -53,12 +53,6 @@ a:hover { color: #3db0ff; }
 img { max-width: 100%; }
 img.right { float: right; padding: 0.5rem 0 0.5rem 1rem; }
 img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
-
-/* useful classes */
-.left { float: left; }
-.right { float: right; }
-.hide { display: none; }
-.desktopHidden { display: none; }
 
 /* homepage post teaser */
 .post-teaser { padding: 0 0.15rem; }
@@ -117,6 +111,11 @@ article { padding: 0 0.15rem; }
 		margin: 0;
 		text-align: center;
 	}
-	h1 { text-align: left; }
 	.desktopHidden { display: block; }
 }
+
+/* useful classes */
+.left { float: left; }
+.right { float: right; }
+.hide { display: none; }
+.desktopHidden { display: none; }
