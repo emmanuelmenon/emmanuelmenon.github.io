@@ -15,7 +15,7 @@ body {
 	margin: 0 auto;
 	background-color: #0F0F0F;
 	color: #fefefe;
-	font-family: 'Jost', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 100%;
 	text-align: justify;
 	text-justify: inter-character;
@@ -23,7 +23,7 @@ body {
 
 /* text */
 p { font-size: 1em; line-height: 1.25; margin: 0.5rem 0; }
-h1 { font-size: 2.11em; font-weight: 700; text-align: left; }
+h1 { font-size: 2.11em; font-weight: 700; text-align: left; font-family: 'Caladea', serif;}
 h2 { font-size: 1.67em; }
 h3 { font-size: 1.33em; }
 h4 { font-size: 1.11em; }
@@ -79,7 +79,7 @@ article { padding: 0 0.15rem; }
 	float: left;
 	top: 0.1rem;
 	margin-top: -0.6rem;
-	margin-left: -11.75rem;
+	margin-left: -12.5rem;
 	padding: 0.75rem;
 	border: 0.1rem solid #808080;
 	border-radius: 1.5rem;
@@ -101,8 +101,14 @@ article { padding: 0 0.15rem; }
   height: 100%;
 }
 
+/* useful classes */
+.left { float: left; }
+.right { float: right; }
+.hide { display: none; }
+.desktopHidden { display: none; }
+
 /* mobile support */
-@media screen and (max-width: 59.9rem) {
+@media screen and (max-width: 60rem) {
 	body { width: inherit; padding: 0 0.2rem;}
 	#sidebar {
 		position: static;
@@ -113,9 +119,3 @@ article { padding: 0 0.15rem; }
 	}
 	.desktopHidden { display: block; }
 }
-
-/* useful classes */
-.left { float: left; }
-.right { float: right; }
-.hide { display: none; }
-.desktopHidden { display: none; }
