@@ -20,6 +20,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Taika Waititi](https://letterboxd.com/emmanuelmenon/list/films-by-taika-waititi-ranked/)
 - [Martin McDonagh](https://letterboxd.com/emmanuelmenon/list/films-by-martin-mcdonagh-ranked/)
 - [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/films-by-greta-gerwig-ranked/)
+- [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
 
 ### Uncompleted Filmographies
 - Alfred Hitchcock
@@ -45,7 +46,6 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Park Chan-wook
 - Ramin Bahrain
 - Richard Linklater
-- [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers/)
 - Sean Price Williams (cinematographer)
 - Stanley Kubrick
 - Steven Soderbergh
