@@ -23,13 +23,14 @@ body {
 
 /* text */
 p { font-size: 1em; line-height: 1.25; margin: 0.5rem 0; }
-h1 { font-size: 2.11em; font-weight: 700; text-align: left; font-family: 'Caladea', serif;}
+h1 { font-size: 2.11em; font-weight: 700; text-align: left;}
 h2 { font-size: 1.67em; }
 h3 { font-size: 1.33em; }
 h4 { font-size: 1.11em; }
 h5 { font-size: 1.07em; }
 h6 { font-size: 1.03em; }
 h1, h2, h3, h4, h5, h6 {
+	font-family: 'Caladea', serif;
 	color: #f4a460;
 	line-height: 1.25;
 	margin-top: 0.3rem;
