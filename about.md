@@ -5,7 +5,7 @@ description: Learn more about Emmanuel Menon, the author of a ~~fantastic~~ blog
 ---
 # About Me
 <img src="../assets/images/aboutpage-profile.jpg" class="right" style="width: 35%; border-radius: 2.5em;">
-Hey there! Welcome to my blog! I'm Emmanuel Menon, a world-renowned recluse who enjoys watching films and learning new things, things that I will probably never use in day to day life. Pictured to the right is me, emerging from my cave after watching all 10 episodes of the Dekalog.
+Hey there! Welcome to my blog! I'm Emmanuel Menon, a world-renowned recluse who enjoys watching films and learning new things, things that I will probably never use in day to day life. Pictured to the right is me, emerging from my cave.
 
 If you are interested, check out my film reviews on [LetterBoxd](https://letterboxd.com/emmanuelmenon). My GitHub is also avalable [here](https://github.com/emmanuelmenon/). I've kept a log of all the films I've watched since October 14th 2018, which you can check out [here](https://docs.google.com/spreadsheets/d/17L6FQYznF9GzyKYIwTJBpKd8MP8I-PCeQ8B3RXGwzcY/edit#gid=2079998586/). I've also done some basic number *crunch* ing on said spreadsheet to *squeeze* some relatively interesting [statistics]((https://docs.google.com/spreadsheets/d/17L6FQYznF9GzyKYIwTJBpKd8MP8I-PCeQ8B3RXGwzcY/edit#gid=532583700/)) out of it.
 
@@ -23,14 +23,18 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
 
 ### Uncompleted Filmographies
+- Akira Kurosawa
 - Alfred Hitchcock
 - Andrei Tarkovsky
-- Akira Kurosawa
+- Ari Aster
+- Ava DuVernay
+- Brandon Cronenberg
 - Brian De Palma
 - Bong Joon Ho
-- Christopher Nolan
+- [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan/)
 - [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
 - [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle/)
+- Darren Aronofsky
 - David Cronenberg
 - [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher/)
 - Denis Villenueve
@@ -40,18 +44,24 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Ingmar Bergman
 - Jean-Luc Godard
 - Jean-Pierre Melville
+- Jordan Peele
 - Martin Scorsese
+- Mani Ratnam
 - Paul Schrader
 - Paul Thomas Anderson
 - Park Chan-wook
 - Ramin Bahrain
 - Richard Linklater
 - Sean Price Williams (cinematographer)
+- Spike Lee
 - Stanley Kubrick
+- Steve McQueen
 - Steven Soderbergh
+- Terrence Malick
 - Virgil Vernier
 - Werner Herzog
 - [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson/)
+- Yorgos Lanthimos
 
 ### Lists I want to complete
 - [My Own Watchlist](https://letterboxd.com/emmanuelmenon/watchlist/)
