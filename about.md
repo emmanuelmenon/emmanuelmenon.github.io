@@ -21,6 +21,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Martin McDonagh](https://letterboxd.com/emmanuelmenon/list/films-by-martin-mcdonagh-ranked/)
 - [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/films-by-greta-gerwig-ranked/)
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
+- [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan-ranked/)
 
 ### Uncompleted Filmographies
 - Akira Kurosawa
@@ -31,9 +32,8 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Brandon Cronenberg
 - Brian De Palma
 - Bong Joon Ho
-- [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan/)
-- [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
 - [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle/)
+- [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
 - Darren Aronofsky
 - David Cronenberg
 - [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher/)
