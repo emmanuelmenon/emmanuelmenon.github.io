@@ -22,9 +22,12 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/films-by-greta-gerwig-ranked/)
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
 - [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan-ranked/)
+- [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle-ranked/)
 
 ### Uncompleted Filmographies
 - Akira Kurosawa
+- Alejandro G. Iñárritu
+- Alfonso Cuarón
 - Alfred Hitchcock
 - Andrei Tarkovsky
 - Ari Aster
@@ -32,7 +35,6 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Brandon Cronenberg
 - Brian De Palma
 - Bong Joon Ho
-- [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle/)
 - [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
 - Darren Aronofsky
 - David Cronenberg
@@ -47,20 +49,32 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Jordan Peele
 - Martin Scorsese
 - Mani Ratnam
+- Max Ophüls
+- Nicolas Roeg
+- Orson Welles
 - Paul Schrader
 - Paul Thomas Anderson
 - Park Chan-wook
 - Ramin Bahrain
 - Richard Linklater
+- Roberto Rossellini
+- Roger Deakins (cinematographer)
+- Sam Mendes
+- Satyajit Ray
 - Sean Price Williams (cinematographer)
+- Sofia Coppola
 - Spike Lee
 - Stanley Kubrick
 - Steve McQueen
 - Steven Soderbergh
+- Steven Spielberg
 - Terrence Malick
 - Virgil Vernier
+- Vittorio De Sica
 - Werner Herzog
 - [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson/)
+- Wong Kar-wai
+- Yasujirō Ozu
 - Yorgos Lanthimos
 
 ### Lists I want to complete
