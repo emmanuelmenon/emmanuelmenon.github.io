@@ -23,6 +23,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
 - [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan-ranked/)
 - [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle-ranked/)
+- [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher-ranked/)
 - [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson-ranked/)
 
 ### Uncompleted Filmographies
@@ -44,7 +45,6 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
 - Darren Aronofsky
 - David Cronenberg
-- [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher/)
 - David Lynch
 - David Robert Mitchell
 - Denis Villenueve
@@ -66,6 +66,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Joel Schumacher
 - John Cassavetes
 - Jordan Peele
+- Lars von Trier
 - Mani Ratnam
 - Martin Scorsese
 - Mati Diop
@@ -74,7 +75,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Oliver Laxe
 - Orson Welles
 - Paul Schrader
-- Paul Thomas Anderson
+- [Paul Thomas Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-paul-thomas-anderson/)
 - Park Chan-wook
 - Pedro Almodóvar
 - Pietro Marcello
