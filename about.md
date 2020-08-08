@@ -35,7 +35,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Alice Rohrwacher
 - Alma Har’el
 - Andrei Tarkovsky
-- Ari Aster
+- [Ari Aster](https://letterboxd.com/emmanuelmenon/list/films-by-ari-aster/)
 - Ava DuVernay
 - Bi Gan
 - Brandon Cronenberg
@@ -48,6 +48,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - David Lynch
 - David Robert Mitchell
 - Denis Villenueve
+- Emmanuel Mouret
 - Federico Fellini
 - Francis Ford Coppola
 - Francis Lee
