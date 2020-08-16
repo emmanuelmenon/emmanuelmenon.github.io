@@ -25,9 +25,11 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle-ranked/)
 - [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher-ranked/)
 - [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson-ranked/)
+- [Paul Thomas Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-paul-thomas-anderson-ranked/)
 
 ### Uncompleted Filmographies
 - Akira Kurosawa
+- Agnès Varda
 - Alejandro G. Iñárritu
 - Alfonso Cuarón
 - Alfred Hitchcock
@@ -50,6 +52,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Denis Villenueve
 - Emmanuel Mouret
 - Federico Fellini
+- Fernando Meirelles
 - Francis Ford Coppola
 - Francis Lee
 - François Truffaut
@@ -76,7 +79,6 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Oliver Laxe
 - Orson Welles
 - Paul Schrader
-- [Paul Thomas Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-paul-thomas-anderson/)
 - Park Chan-wook
 - Pedro Almodóvar
 - Pietro Marcello
