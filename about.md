@@ -26,6 +26,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher-ranked/)
 - [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson-ranked/)
 - [Paul Thomas Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-paul-thomas-anderson-ranked/)
+- [Ari Aster](https://letterboxd.com/emmanuelmenon/list/films-by-ari-aster-ranked/)
 
 ### Uncompleted Filmographies
 - Akira Kurosawa
@@ -37,7 +38,6 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Alice Rohrwacher
 - Alma Har’el
 - Andrei Tarkovsky
-- [Ari Aster](https://letterboxd.com/emmanuelmenon/list/films-by-ari-aster/)
 - Ava DuVernay
 - Bi Gan
 - Brandon Cronenberg
@@ -67,6 +67,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Jean-Pierre Melville
 - Jennifer Kent
 - Jennifer Reeder
+- Jim Jarmusch
 - Joel Schumacher
 - John Cassavetes
 - Jordan Peele
@@ -85,7 +86,7 @@ If you wish to contact me, you can do so at [contact[at]emmanuelmenon.com](mailt
 - Ramin Bahrain
 - Richard Linklater
 - Ridley Scott
-- Robert Eggers
+- [Robert Eggers](https://letterboxd.com/emmanuelmenon/list/films-by-robert-eggers/)
 - Roberto Rossellini
 - Roger Deakins (cinematographer)
 - Roman Polanski
