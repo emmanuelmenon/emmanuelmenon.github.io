@@ -5,12 +5,9 @@ description: 'Directly from the "incredible" mind of Emmanuel Menon, this blog c
 lang: 'en_AU'
 social:
   links:
-    - https://twitter.com/emmanuelhmenon
     - https://github.com/emmanuelmenon
     - https://letterboxd.com/emmanuelmenon
-twitter:
-  username: emmanuelhmenon
-  card: 'Directly from the "incredible" mind of Emmanuel Menon, this blog covers everything from film to fiction to coding!'
+markdown: kramdown
 permalink: '/:year/:month/:day/:title/'
 paginate: 5
 plugins:
