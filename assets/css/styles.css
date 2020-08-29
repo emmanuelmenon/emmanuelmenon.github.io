@@ -42,7 +42,7 @@ em { font-style: italic; }
 strong { font-weight: 700; }
 
 /* lists */
-#content ul li, #content ol li { margin: 1rem 0 -0.5rem 1.5rem; }
+#content ul li, #content ol li { margin: 0.5rem 0 0rem 1.5rem; }
 #content ul li { list-style-type: disc; }
 #content ol li { list-style-type: lower-roman; }
 
@@ -69,8 +69,9 @@ img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
 
 /* posts */
 article { padding: 0; }
-.post-meta { margin: -0.15rem; font-style: italic; font-size: 0.85em; }
-.post-meta p { margin-bottom: 0; margin-top: 0.1rem;}
+.post { border-bottom: 0.1rem solid #808080; padding-bottom: 0.5rem;}
+.post-meta { font-style: italic; font-size: 0.85em; }
+.post-meta p { margin-bottom: 0; margin-top: 0.25rem;}
 .post-meta a { text-decoration: none; }
 
 /* sidebar */
