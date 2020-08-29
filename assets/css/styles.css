@@ -7,34 +7,34 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* loads on every page */
 img.header-image { width: 25rem; margin: 0.5rem auto; display: block; }
 hr { border: 0.025rem solid #808080; }
-footer { border-top: 0.1rem solid #808080; margin-top: 0.5rem; font-size: 0.85em;}
-footer form { margin-top: 0.3rem;}
-footer form input { border-radius: 1.5rem;}
+footer { border-top: 0.1rem solid #808080; margin-top: 0.5rem; font-size: 0.85em; }
+footer p { margin-top: 0.5rem; }
+footer form { margin-top: 0.3rem; }
+footer form input { border-radius: 1.5rem; }
 body {
 	width: 35em;
 	margin: 0 auto;
 	background-color: #0F0F0F;
-	color: #fefefe;
-	font-family: 'Montserrat', sans-serif;
+	color: #d9d9d9;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 100%;
-	text-align: justify;
-	text-justify: inter-character;
+	text-align: left;
 }
 
 /* text */
-p { font-size: 1em; line-height: 1.25; margin: 0.5rem 0; }
-h1 { font-size: 2.11em; font-weight: 700; text-align: left;}
+p { font-size: 1em; line-height: 1.25; margin: 0.75rem 0; }
+h1 { font-size: 2.11em; font-weight: 700; text-align: left; }
 h2 { font-size: 1.67em; }
 h3 { font-size: 1.33em; }
 h4 { font-size: 1.11em; }
-h5 { font-size: 1.07em; }
-h6 { font-size: 1.03em; }
+h5 { font-size: 1.05em; }
+h6 { font-size: 1em; }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Caladea', serif;
 	color: #f4a460;
 	line-height: 1.25;
-	margin-top: 0.3rem;
-	margin-bottom: -0.3rem;
+	margin-top: 0.75rem;
+	margin-bottom: -0.75rem;
 }
 
 /* text emphasis */
@@ -58,7 +58,7 @@ img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
 /* homepage post teaser */
 .post-teaser { padding: 0 0.15rem; }
 .post-teaser h1 a { text-decoration: none; }
-.post-teaser h6 { font-size: 0.9em; font-style: italic; margin-top: 0.1rem; }
+.post-teaser h6 { font-size: 0.9em; font-style: italic; margin-top: 0.5rem; }
 
 /* pagination buttons */
 .greyed { color: #808080; }
@@ -111,6 +111,7 @@ article { padding: 0 0.15rem; }
 /* mobile support */
 @media screen and (max-width: 60rem) {
 	body { width: inherit; padding: 0 0.2rem;}
+	footer form { float: left!important; margin-top: -0.4rem; margin-bottom: 0.25rem; }
 	#sidebar {
 		position: static;
 		z-index: 0;
