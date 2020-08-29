@@ -14,7 +14,7 @@ I'm a subscriber to [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0
 <iframe width="10%" height="338" src="https://www.youtube.com/embed/0wI4HXBH9Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-I knew absoutely nothing about the French New Wave movement. So, I decided to learn about it. Following along with the principle that was outlined in my [guide to double features]({% post_url 2020-05-06-double-features-a-guide %}), which stated that "the double feature [is] a way of learning — and thinking — about movies" (a quote taken from [this](https://www.nytimes.com/2016/08/17/movies/double-feature-movies-in-a-film-forum-retrospective.html) article, written by James Hoberman), I decided that I would screen a double feature of Breathless and Jules et Jim for myself.
+I knew absolutely nothing about the French New Wave movement. So, I decided to learn about it. Following along with the principle that was outlined in my [guide to double features]({% post_url 2020-05-06-double-features-a-guide %}), which stated that "the double feature [is] a way of learning — and thinking — about movies" (a quote taken from [this](https://www.nytimes.com/2016/08/17/movies/double-feature-movies-in-a-film-forum-retrospective.html) article, written by James Hoberman), I decided that I would screen a double feature of Breathless and Jules et Jim for myself.
 
 Since this is the first of (hopefully) many blog posts detailing a completed double feature, I'm going to attempt to set a template up that allows me to efficiently go about the process of analysing a double feature.
 
@@ -35,7 +35,7 @@ The three main actors individually deliver fantastic performances, but it's when
 
 ## Links
 ### Themes
-Breathless and Jules et Jim share quite themes. One of these themes is manipulation of love. Both films are engrossed with this concept, but both approach it from completely different perspectives. Breathless empathises with Patricia, the female lead, and we clearly see Michel manipulating her. However, his reasons for manipulation are nefarious, he only says that he loves her because he wants to have sex with her. In Jules et Jim on the other hand, we see both Jules and Jim being manipulated by Catherine as she shuttles back and forth between multiple men. Unlike Michel, Catherine's reasons for doing so are not nefarious, indeed, the film seems to suggest that it is an uncontrollable aspect of her base nature.
+Breathless and Jules et Jim share quite themes. One of these themes is the manipulation of love. Both films are engrossed with this concept, but both approach it from completely different perspectives. Breathless empathises with Patricia, the female lead, and we clearly see Michel manipulating her. However, his reasons for manipulation are nefarious, he only says that he loves her because he wants to have sex with her. In Jules et Jim on the other hand, we see both Jules and Jim being manipulated by Catherine as she shuttles back and forth between multiple men. Unlike Michel, Catherine's reasons for doing so are not nefarious, indeed, the film seems to suggest that it is an uncontrollable aspect of her base nature.
 
 ### Production & Techniques
 The production of Breathless is pretty much considered mythical at this point so I won't really go too deep into it here. If you want, you can read more about it [here](https://en.wikipedia.org/wiki/Breathless_(1960_film)#Production). There isn't as much information available about the production of Jules et Jim but there is some available [here](https://en.wikipedia.org/wiki/Jules_and_Jim#Style).
@@ -43,7 +43,7 @@ The production of Breathless is pretty much considered mythical at this point so
 The only similarity in technique that I noticed while watching was that handheld shots were used quite often, which imbued the film with a highly fluid feel.
 
 ### Cast &  Crew
-Interestingly—and I didn't find this out until I had finished watching the film—there are two major crew members that were extremely key to the production of both films. The first was François Truffaut, who actually conceived the story of Breathless after reading a newspaper article about a man who had killed a cop, after stealing a car so that he could visit his sick mother. François Truffaut when on to write and direct Jules et Jim just four years later.
+Interestingly—and I didn't find this out until I had finished watching the film—two major crew members were extremely key to the production of both films. The first was François Truffaut, who actually conceived the story of Breathless after reading a newspaper article about a man who had killed a cop, after stealing a car so that he could visit his sick mother. François Truffaut when on to write and direct Jules et Jim just four years later.
 
 Another shared link between the films is Raoul Cotard, who served as cinematographer for both films. Cotard was initially "forced" onto Godard by the producer of Breathless, but ended up collaborating with Godard for a large portion of his films.
 

@@ -8,11 +8,11 @@ sitemap:
   lastmod: 2019-06-05
 ---
 ## What are Markov Chains?
-Markov Chains are stochastic models that demonstrate the probability of transition from one state to another. For example, imagine that every single day, I have two options. I can either go for a run, or not go for a run. The probability of me **not** going for a run today is 65%, which means that the probability of me going for a run today has to be 35%. However, if I decided to go for a run yesterday, the chances of me going for run today might be higher (let's say about 70%), which means that there is a lower chance of me not running today. But if I decided not to go for a run yesterday, I probably won't go for a run today either (let's assume that the chances of me not running today after I didn't run yesterday is about 55%). So how would I represent this using a Markov Chain model?
+Markov Chains are stochastic models that demonstrate the probability of transition from one state to another. For example, imagine that every single day, I have two options. I can either go for a run or not go for a run. The probability of me **not** going for a run today is 65%, which means that the probability of me going for a run today has to be 35%. However, if I decided to go for a run yesterday, the chances of me going for a run today might be higher (let's say about 70%), which means that there is a lower chance of me not running today. But if I decided not to go for a run yesterday, I probably won't go for a run today either (let's assume that the chances of me not running today after I didn't run yesterday is about 55%). So how would I represent this using a Markov Chain model?
 
 <!--more-->
 
-Well, first let's just write down the probabilities of transitition from each state:
+Well, first let's just write down the probabilities of transition from each state:
 - **Probability of running today after running yesterday**: 70%
 - **Probability of *not* running today after running yesterday**: 30%
 - **Probability of running today after *not* running yesterday**: 45%
@@ -21,9 +21,9 @@ Well, first let's just write down the probabilities of transitition from each st
 Next, we can draw out the model.
 ![Running Model Image](https://i.lensdump.com/i/Wnr5U0.jpg)
 
-But what if there were three states? Or four states? Or five state? It gets painful to draw out one of these everytime we want to use the Markov model. That's where a transition matrix come in.
+But what if there were three states? Or four states? Or five state? It gets painful to draw out one of these every time we want to use the Markov model. That's where a transition matrix come in.
 
-A transition matrix is used to show the possibility of each transition within a table. Every state is used once as a row and as a column and each cell shows the probabilty of transitioning from one state to another. A transition matrix for the running model would look like this (P is shorthand for probability).
+A transition matrix is used to show the possibility of each transition within a table. Every state is used once as a row and as a column and each cell shows the probability of transitioning from one state to another. A transition matrix for the running model would look like this (P is shorthand for probability).
 
 | | Running | Not Running |
 | Running | P(Running -> Running): *70%* | P(Running -> Not Running): *30%* |
@@ -56,7 +56,7 @@ winningMoves = {"R": "P", "P": "S", "S": "R"}
 oppMoveHistory = []
 ```
 - `transitionTable`: This variable stores our transition matrix as a set of nested dictionaries. The keys that store the dictionaries are the picks that are being transitioned **from** while the values inside the nested dictionary will contain the picks that are being transitioned **to**.
-    - For example, the left-most `R` is the value that is being transitioned from, while the `{"S": 0, "P": 0, "R": 0}` dictionary that it is paired to will hold the values that are being transitioned to as keys and the probabilty of that transition occuring as values.
+    - For example, the left-most `R` is the value that is being transitioned from, while the `{"S": 0, "P": 0, "R": 0}` dictionary that it is paired to will hold the values that are being transitioned to as keys and the probability of that transition occurring as values.
 - `playCount`: This variable is assigned to the number of times that each pick has been played throughout the program's life
 - `choices`: This is a list of possible picks.
 - `winningMoves`: This is a dictionary where each key is paired to the value that beats it.
@@ -72,8 +72,8 @@ def updater():
         editDict[oppMoveHistory[-1]] += 1
 ```
 - `def updater()`: Defines a function that takes no arguments.
-- `playCount[oppMoveHistory[-1]] += 1`: Increments the number of times the number of times that the last move has been played by one.
-- `if len(oppMoveHistory) > 1:`: This essentially checks whether there is more than two things to update in the dictionary. Because if there is only one thing in the move history, there is nothing to update.
+- `playCount[oppMoveHistory[-1]] += 1`: Increments the number of times that the last move has been played by one.
+- `if len(oppMoveHistory) > 1:`: This essentially checks whether there are more than two things to update in the dictionary. Because if there is only one thing in the move history, there is nothing to update.
 - `editDict = transitionTable[oppMoveHistory[-2]]`: Takes the second last move, grabs the relevant dictionary from the transition table, and updates it.
 - `editDict[oppMoveHistory[-1]] += 1`: Takes the last move, increments the relevant pick within the nested dict.
 
@@ -123,7 +123,7 @@ else:
 - `oppMoveHistory.append()`: Adds the latest move to the move history
 - `updater()`: Updates the transition table
 - `output = pickMaker()`: `output` is the global variable that RPSContest.com reads. `pickMaker()` makes a pick that it thinks will win.
-- `else:`: If the conditions of the if statement are not fulfilled, the code below is run
+- `else:`: If the conditions of the if statement is not fulfilled, the code below is run
 - `output = random.choice(choices)`: Picks randomly from the choice list.
 
 And we are done! If you would like to play against this bot, click [here](http://www.rpscontest.com/human/5678786255257600?).

@@ -8,7 +8,7 @@ sitemap:
   lastmod: 2019-09-14
 ---
 ## What is Iocaine Powder?
-Iocaine Powder is a program that was originally developed by Dan Egnor in 1999 to participate in the First International RoShamBo Programming Competition. It managed to win in all categories and beat all of it's opponents. Iocaine Powder utilises a predictive meta-strategy to defeat its opponents.
+Iocaine Powder is a program that was originally developed by Dan Egnor in 1999 to participate in the First International RoShamBo Programming Competition. It managed to win in all categories and beat all of its opponents. Iocaine Powder utilises a predictive meta-strategy to defeat its opponents.
 
 <!--more-->
 
@@ -60,7 +60,7 @@ This is mainly used if the program is on a losing streak. Random guessing is use
 Check out [this](http://emmanuelmenon.github.io/2019/06/03/frequency-analysis-in-rock-paper-scissors/) article which was written by me!
 
 - **History Matching:**
-This predictor uses the history of the opponents moves and looks for a pattern in the last *x* moves by comparing it to more recent results. If a similar pattern is found, this function returns the move the opponent made afterwards previously.
+This predictor uses the history of the opponent's moves and looks for a pattern in the last *x* moves by comparing it to more recent results. If a similar pattern is found, this function returns the move the opponent made afterwards previously.
 
 Iocaine Powder uses different variations of these three predictors, using the same scoring system detailed above for each variation.
 
@@ -68,7 +68,7 @@ Iocaine Powder uses different variations of these three predictors, using the sa
 
 ## Code behind Iocaine Powder
 
-I am not going to explain each line of code, like I did in my previous two "Programming an RPS Bot"'s. This is because there are about 362 lines of code and also because I feel really embarrassed about the inefficiency of most of the code. Many, many stupid decisions were made and no amount of therapy will help.
+I am not going to explain each line of code as I did in my previous two "Programming an RPS Bot"'s. This is because there are about 362 lines of code and also because I feel really embarrassed about the inefficiency of most of the code. Many, many stupid decisions were made and no amount of therapy will help.
 
 However, I will add a [link](https://github.com/emmanuelmenon/RoShamBots/blob/master/IocainePowder.py) to the code so that you can marvel at my stupidity.
 

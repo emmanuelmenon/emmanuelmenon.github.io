@@ -15,10 +15,10 @@ I'm in quarantine, with a wealth of time on my hands, so I thought I'd post some
 A quick disclaimer, if I may. The title of this isn't meant to indicate that I am an expert on double features. I enjoy trying to learn as much as I can about a specific thing and I find that it is the best way for me to learn new things. Writing this blog post is a way for me to consolidate as much of that knowledge as I can by rephrasing and framing it in new ways.
 
 ## What is a double feature?
-A double feature, or double bill, as it is sometimes referred to, is a back-to-back screening of two feature films. These films are standalone films and have no relation in characters or in title. You wouldn't, for example, watch Taken 2 after Taken 1 (if you were planning on doing that, you're too far gone for anybody to save).
+A double feature, or double bill, as it is sometimes referred to, is a back-to-back screening of two feature films. These films are standalone and have no relation in characters or in title. You wouldn't, for example, watch Taken 2 after Taken 1 (if you were planning on doing that, you're too far gone for anybody to save).
 
 ## History of the double feature
-The double feature came about during The Great Depression as a product of higher unemployment rates and smaller incomes. Theatres, watching screening attendances decline, started selling two films for the price of one ticket. This had the intended effect. Sales went up. Audiences escaped into the cheerful fantasy depicted in *The Wizard of Oz* and were riveted by *Gone with the Wind*'s romanticisms.
+The double-feature came about during The Great Depression as a product of higher unemployment rates and smaller incomes. Theatres, watching screening attendances decline, started selling two films for the price of one ticket. This had the intended effect. Sales went up. Audiences escaped into the cheerful fantasy depicted in *The Wizard of Oz* and were riveted by *Gone with the Wind*'s romanticisms.
 
 Double features also brought about the creation of the B movie. I could write a whole other blog post about the B movie, so I'll keep it short. Studios had noticed that double features were selling extremely well. However, they were running out of new films to include in their double features. Thus began the production of B movies. Usually, studios would get inexperienced crew members and new actors, as well as actors whose popularity had waned. They would then put them on a film that was usually made using whatever sets were available at the time.
 
@@ -47,7 +47,7 @@ Each film in a double feature should complement the other, enhancing your unders
 - [Fantastic Mr Fox](https://www.justwatch.com/us/movie/fantastic-mr-fox) & [Isle of Dogs](https://www.justwatch.com/us/movie/isle-of-dogs)
     - A Wes Anderson animated double feature. I haven't personally done this double feature, although I have watched both of these excellent films.
 - [Taxi Driver](https://www.justwatch.com/us/movie/taxi-driver) & [Nightcrawler](https://www.justwatch.com/us/movie/nightcrawler)
-    - A double feature containing unnerving, mentally unstable characters. Again, I haven't actually done this double feature, although both of these films are fantastic.
+    - A double-feature containing unnerving, mentally unstable characters. Again, I haven't actually done this double feature, although both of these films are fantastic.
 - [Letterboxd User Recommendations](https://letterboxd.com/search/Double+Features/)
     - Each odd-numbered film is linked to the next even-numbered film
 - [Edgar Wright's recommendations](https://twitter.com/search?q=Double%20bill%20for%20the%20day%3A%20(from%3Aedgarwright)&f=live)

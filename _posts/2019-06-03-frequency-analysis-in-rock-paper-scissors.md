@@ -9,7 +9,7 @@ sitemap:
   lastmod: 2019-06-30
 ---
 ## Random Choice
-I began with creating the simplest bot I could think of. A bot which picks randomly every time.<!--more--> Here's the code:
+I began by creating the simplest bot I could think of. A bot which picks randomly every time.<!--more--> Here's the code:
 
 ```python
 import random
@@ -65,4 +65,4 @@ else:
 15. `winningMoves[]`: Will return the move that beats the provided one
 16. `getDictMax(pickCounter)`: Calls getDictMax on the pickCounter dictionary. Will return the opponent's predicted move
 
-That's a lot of explanation for 11 lines of code (*damn, my fingers are cramping up*), so I might have to break the next segment (Markov Chains) into muliple parts. if you wish to do so, you can play against the frequency analysis bot [here](http://www.rpscontest.com/human/5118816036061184?).
+That's a lot of explanation for 11 lines of code (*damn, my fingers are cramping up*), so I might have to break the next segment (Markov Chains) into multiple parts. if you wish to do so, you can play against the frequency analysis bot [here](http://www.rpscontest.com/human/5118816036061184?).

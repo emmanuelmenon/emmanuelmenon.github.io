@@ -47,7 +47,7 @@ After adding in the info I wanted to add to the site (and adding two blog posts)
 
 No sleep for me I guess...
 
-Logging back on to my computer, I noted that the locally hosted site was working properly. However, testing the GitHub Pages hosted site yielded the same error that had occured on my phone. A quick view-source showed me that the site wasn't linking to the correct base URL for the site. Now, I'm not exactly that experienced with using Jekyll (or even HTML for that matter) so I had no idea why this issue was only reproducible on the GitHub pages site. So I Googled it and found [this](https://github.com/poole/hyde/issues/54).
+Logging back on to my computer, I noted that the locally hosted site was working properly. However, testing the GitHub Pages hosted site yielded the same error that had occurred on my phone. A quick view-source showed me that the site wasn't linking to the correct base URL for the site. Now, I'm not exactly that experienced with using Jekyll (or even HTML for that matter) so I had no idea why this issue was only reproducible on the GitHub pages site. So I Googled it and found [this](https://github.com/poole/hyde/issues/54).
 
 ![Arghh!!](https://i.lensdump.com/i/Wetvj5.jpg)
 
