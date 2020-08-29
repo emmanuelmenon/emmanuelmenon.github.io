@@ -11,7 +11,7 @@ I'm a subscriber to [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0
 
 <!--more-->
 <div class="videoWrapper" style="--aspect-ratio: 9 / 16;">
-<iframe width="10%" height="338" src="https://www.youtube.com/embed/0wI4HXBH9Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0wI4HXBH9Yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 I knew absolutely nothing about the French New Wave movement. So, I decided to learn about it. Following along with the principle that was outlined in my [guide to double features]({% post_url 2020-05-06-double-features-a-guide %}), which stated that "the double feature [is] a way of learning — and thinking — about movies" (a quote taken from [this](https://www.nytimes.com/2016/08/17/movies/double-feature-movies-in-a-film-forum-retrospective.html) article, written by James Hoberman), I decided that I would screen a double feature of Breathless and Jules et Jim for myself.
