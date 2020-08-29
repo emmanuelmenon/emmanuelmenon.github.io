@@ -9,7 +9,6 @@ description: The homepage of the blog of the recluse known only as Emmanuel Meno
 		<h6>{{ post.date | date: "%B %d, %Y" }}</h6>
 		<p>{{ post.excerpt | strip_html  }}(<a href="{{ post.url }}">Continue Reading</a>)</p>
 	</div>
-	<hr>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
