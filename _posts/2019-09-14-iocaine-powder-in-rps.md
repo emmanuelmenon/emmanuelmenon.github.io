@@ -5,8 +5,12 @@ tags: sciencementors2019 python programming
 author: Emmanuel Menon
 lang: en_AU
 sitemap:
-  lastmod: 2019-09-14
+    lastmod: 2019-09-14
 ---
+
+1. The generated ToC will be an ordered list
+{:toc}
+
 ## What is Iocaine Powder?
 Iocaine Powder is a program that was originally developed by Dan Egnor in 1999 to participate in the First International RoShamBo Programming Competition. It managed to win in all categories and beat all of its opponents. Iocaine Powder utilises a predictive meta-strategy to defeat its opponents.
 

@@ -5,9 +5,12 @@ tags: doublefeatures film
 author: Emmanuel Menon
 lang: en_AU
 sitemap:
-  lastmod: 2020-05-06
-  priority: 0.9
+    lastmod: 2020-05-06
 ---
+
+1. The generated ToC will be an ordered list
+{:toc}
+
 I'm in quarantine, with a wealth of time on my hands, so I thought I'd post something on my criminally underused (and recently redesigned) blog. Since I'm planning on doing a French New Wave double feature soon (it's inspired by a "Now You See It" video essay I just watched), I decided: Why not learn about double features before screening one for myself?
 
 <!--more-->

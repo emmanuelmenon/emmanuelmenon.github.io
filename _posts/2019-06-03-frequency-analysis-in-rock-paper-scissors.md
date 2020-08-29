@@ -6,8 +6,12 @@ author: Emmanuel Menon
 lang: en_AU
 comments: true
 sitemap:
-  lastmod: 2019-06-30
+    lastmod: 2019-06-30
 ---
+
+1. The generated ToC will be an ordered list
+{:toc}
+
 ## Random Choice
 I began by creating the simplest bot I could think of. A bot which picks randomly every time.<!--more--> Here's the code:
 

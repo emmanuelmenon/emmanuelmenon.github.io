@@ -6,8 +6,12 @@ author: Emmanuel Menon
 lang: en_AU
 comments: true
 sitemap:
-  lastmod: 2019-05-30
+    lastmod: 2019-05-30
 ---
+
+1. The generated ToC will be an ordered list
+{:toc}
+
 Last night, I decided to switch Jekyll themes. The previous one didn't look that great and there was an extremely weird bug (which I couldn't fix). This bug essentially made it so that the entire site would appear to be normal, ***EXCEPT FOR ABOUT HALF A MONITOR'S WORTH OF WHITESPACE*** on the right side. This pissed me off to such an extent that I just decided to switch to another theme. After checking out some [themes](https://jekyllthemes.io/free), I finally picked [Hyde](https://hyde.getpoole.com). Hyde looked great, was (relatively) minimalistic and seemed easily configurable which suits my needs perfectly.
 <!--more-->
 So, I headed to the GitHub repo for Hyde, downloaded it to my hard drive and unzipped it. After unzipping it, I decided to quickly run `jekyll serve` in CMD to check out the themes default state. I was greeted with this.
