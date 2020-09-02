@@ -132,8 +132,10 @@ article { padding: 0; }
 
 /* mobile support */
 @media screen and (max-width: 60rem) {
-	body { width: inherit; padding: 0 0.2rem;}
+	body { width: inherit; margin: 0.75rem;}
 	footer form { float: left!important; margin-top: -0.4rem; margin-bottom: 0.25rem; }
+	.desktopHidden { display: block; }
+	#content { margin-top: 0.5rem; }
 	#sidebar {
 		position: static;
 		z-index: 0;
@@ -141,5 +143,4 @@ article { padding: 0; }
 		margin: 0;
 		text-align: center;
 	}
-	.desktopHidden { display: block; }
 }
