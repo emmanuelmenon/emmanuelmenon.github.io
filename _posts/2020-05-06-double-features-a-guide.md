@@ -35,7 +35,7 @@ As a result of the combination of the rise of streaming and the collective lower
 Thankfully, however, due to physical media and various streaming services, the very same ones that killed the double feature, the double feature does live on in our homes.
 
 ## How do I create a **good** double feature?
-Again, I would like to reiterate that I am by now means an expert on creating a good double feature, this is just what I've learned over the course of a couple days of research. I've also added in some of my own ideas that seem to logically fit into what makes a good double feature.
+Again, I would like to reiterate that I am by no means an expert on creating a good double feature, this is just what I've learned over the course of a couple days of research. I've also added in some of my own ideas that seem to logically fit into what makes a good double feature.
 
 <p class="nomargin">First off, let's get the "musts" out of the way</p>
 - Must contain two films

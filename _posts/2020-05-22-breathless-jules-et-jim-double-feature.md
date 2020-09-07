@@ -11,7 +11,7 @@ sitemap:
 1. The generated ToC will be an ordered list
 {:toc}
 
-I'm a subscriber to [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) on YouTube, a channel that posts these amazingly well-edited, informative video essays once every month. Their most recent video, titled "The Movie That Changed Movies" discussed 1967's Bonnie and Clyde, and it's undeniable impact on American cinema. They also mention the impact that the French New Wave had on Bonnie and Clyde and pointed out two in particular: Breathless, a film by Jean-Luc Godard, as well as, Jules et Jim, a film by François Truffaut.
+I'm a subscriber to [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) on YouTube, a channel that posts these amazingly well-edited, informative video essays once every month. Their most recent video, titled "The Movie That Changed Movies" discussed 1967's Bonnie and Clyde, and it's undeniable impact on American cinema. They also mentioned the impact that the French New Wave had on Bonnie and Clyde and pointed out two in particular: Breathless, a film by Jean-Luc Godard, as well as, Jules et Jim, a film by François Truffaut.
 
 <!--more-->
 <div class="videoWrapper" style="--aspect-ratio: 9 / 16;">
