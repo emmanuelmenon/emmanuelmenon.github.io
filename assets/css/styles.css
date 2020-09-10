@@ -18,12 +18,10 @@ body {
 	color: #d9d9d9;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 100%;
-	text-align: left;
 }
 
 /* text */
-p { font-size: 1em; line-height: 1.25; margin: 0.75rem 0; }
-h1 { font-size: 2.11em; font-weight: 700; margin-top: 0!important; }
+h1 { font-size: 2.11em; font-weight: 700; margin-top: 0!important; text-align: center; }
 h2 { font-size: 1.67em; }
 h3 { font-size: 1.33em; }
 h4 { font-size: 1.11em; }
@@ -35,6 +33,19 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
 	margin-top: 0.75rem;
 	margin-bottom: -0.75rem;
+}
+p {
+	font-size: 1em;
+	line-height: 1.25;
+	margin: 0.75rem 0;
+	text-align: justify;
+	text-justify: inter-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
+	hyphens: auto;
+	word-break: break-word;
 }
 
 /* text emphasis */
@@ -59,7 +70,7 @@ img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
 /* homepage post teaser */
 .post-teaser { padding: 0.15rem 0; border-bottom: 0.1rem solid #808080; }
 .post-teaser h1 a { text-decoration: none; }
-.post-teaser h6 { font-size: 0.9em; font-style: italic; margin-top: 0.5rem; }
+.post-teaser h6 { font-size: 0.9em; font-style: italic; margin-top: 0.5rem; text-align: center; }
 .post-teaser:first-of-type { padding-top: 0; }
 
 /* pagination buttons */
@@ -129,6 +140,7 @@ article { padding: 0; }
 .right { float: right; }
 .hide { display: none; }
 .desktopHidden { display: none; }
+.center-text { text-align: center; }
 
 /* mobile support */
 @media screen and (max-width: 60rem) {
