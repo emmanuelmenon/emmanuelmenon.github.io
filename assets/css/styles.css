@@ -7,7 +7,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* loads on every page */
 img.header-image { width: 25rem; margin: 0.5rem auto 0; display: block; }
 #content { border-top: 0.1rem solid #808080; padding-top: 0.3rem; }
-footer { border-top: 0.1rem solid #808080; margin-top: 0.5rem; font-size: 0.85em; }
+footer { border-top: 0.1rem solid #808080; margin-top: 0.75rem; font-size: 0.85em; }
 footer p { margin-top: 0.5rem; }
 footer form { margin-top: 0.3rem; }
 footer form input { border-radius: 1.5rem; }
@@ -53,7 +53,7 @@ em { font-style: italic; }
 strong { font-weight: 700; }
 
 /* lists */
-#content ul li, #content ol li { margin: 0.5rem 0 0rem 1.5rem; }
+#content ul li, #content ol li { line-height: 1.25; margin: 0.5rem 0 0rem 1.5rem; }
 #content ul li { list-style-type: disc; }
 #content ol li { list-style-type: lower-roman; }
 
@@ -75,13 +75,13 @@ img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
 
 /* pagination buttons */
 .greyed { color: #808080; }
-.paginator { text-align: center; margin-top: 0.5rem; }
+.paginator { text-align: center; margin-top: 0.75rem; }
 .paginator a { text-decoration: none; }
 
 /* posts */
 article { padding: 0; }
-.post { border-bottom: 0.1rem solid #808080; padding-bottom: 0.5rem;}
-.post-meta { font-style: italic; font-size: 0.85em; }
+.post { border-bottom: 0.1rem solid #808080; }
+.post-meta { font-style: italic; font-size: 0.85em; margin-top: 0.75rem; }
 .post-meta p { margin-bottom: 0; margin-top: 0.25rem;}
 .post-meta a { text-decoration: none; }
 
