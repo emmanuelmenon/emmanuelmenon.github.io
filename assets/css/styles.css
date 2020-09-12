@@ -80,6 +80,7 @@ img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
 
 /* posts */
 article { padding: 0; }
+hr { width: 1.25em;  opacity: 0.5; border-style: dashed; }
 .post { border-bottom: 0.1rem solid #808080; }
 .post-meta { font-style: italic; font-size: 0.85em; margin-top: 0.75rem; }
 .post-meta p { margin-bottom: 0; margin-top: 0.25rem;}
@@ -121,7 +122,6 @@ article { padding: 0; }
 	content: "Table of Contents:";
 	font-weight: bold;
 }
-
 #markdown-toc {
 	width: 17.5rem;
 	border: 0.1rem solid #808080;
@@ -130,7 +130,6 @@ article { padding: 0; }
 	list-style: decimal;
 	display: inline-block;
 }
-
 #markdown-toc li {
 	margin: 0.3rem 1.75rem!important;
 }
