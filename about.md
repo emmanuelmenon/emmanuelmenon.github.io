@@ -7,7 +7,7 @@ description: Learn more about Emmanuel Menon, the author of a ~~fantastic~~ blog
 <!-- <img src="../assets/images/aboutpage-profile.jpg" class="right" style="width: 35%; border-radius: 2.5em;"> -->
 Hey there! Welcome to my blog! I'm Emmanuel Menon, a world-renowned recluse who enjoys watching films and learning new things, things that I will probably never use in day to day life. Pictured to the right is me, emerging from my cave.
 
-If you are interested, check out my film reviews on [Letterboxd](https://letterboxd.com/emmanuelmenon). My GitHub is also available [here](https://github.com/emmanuelmenon/). I've kept a log of all the films I've watched since October 14th 2018, which you can check out [here](https://docs.google.com/spreadsheets/d/17L6FQYznF9GzyKYIwTJBpKd8MP8I-PCeQ8B3RXGwzcY/edit#gid=2079998586/). I've also done some basic number crunching on said spreadsheet to *squeeze* some relatively interesting [statistics]((https://docs.google.com/spreadsheets/d/17L6FQYznF9GzyKYIwTJBpKd8MP8I-PCeQ8B3RXGwzcY/edit#gid=532583700/)) out of it.
+If you are interested, check out my film reviews on [Letterboxd](https://letterboxd.com/emmanuelmenon). Letterboxd is also kind enough to generate some statistics based on my movie logging. You can find my all-time (well, since the 14th of October 2018) stats [here](https://letterboxd.com/emmanuelmenon/stats/) or this year's stats [here](https://letterboxd.com/emmanuelmenon/year/{{ site.time | date: '%Y' }}/). My GitHub is also available [here](https://github.com/emmanuelmenon/).
 <br>
 <br>
 <p class="center-text">
