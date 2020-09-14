@@ -14,6 +14,7 @@ footer form input { border-radius: 1.5rem; }
 body {
 	width: 35em;
 	margin: 0 auto;
+	margin-left: 31%;
 	background-color: #0F0F0F;
 	color: #d9d9d9;
 	font-family: 'Work Sans', sans-serif;
