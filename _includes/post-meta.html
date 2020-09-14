@@ -1,6 +1,9 @@
 <div class="post-meta">
     <p>Written by: Emmanuel Harish Menon<p>
     <p>Posted on: {{ page.date | date: "%b %d, %Y" }}</p>
+    {% if page.date != page.sitemap.lastmod %}
+    <p>Last modified on: {{ page.sitemap.lastmod | date: "%b %d, %Y" }}</p>
+    {% endif %}
     <p>Tagged with:
         {% for tag in page.tags %}
             <a href="/tag/{{ tag }}/"><i class="fa fa-tag fa-xs"></i>{{ tag }}</a>
