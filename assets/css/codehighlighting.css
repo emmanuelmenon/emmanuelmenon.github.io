@@ -1,11 +1,11 @@
-/* my styles */
+/* my stylings */
 pre { white-space: pre-wrap; }
 code { font-family: 'Ubuntu Mono', monospace !important; }
-.highlight { padding: 10px; margin: 0;  border-radius: 25px; margin: 0.75rem 0.25rem; }
+.highlight { padding: 10px; margin: 0; border-radius: 1.5rem; margin: 0.75rem 0.25rem; }
 
 /* begin theme */
+.highlight { background: #272822; color: #f8f8f2 }
 .highlight .hll { background-color: #49483e }
-.highlight  { background: #272822; color: #f8f8f2 }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 .highlight .k { color: #66d9ef } /* Keyword */
