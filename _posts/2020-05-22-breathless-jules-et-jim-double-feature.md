@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Double Feature: Breathless (1960) & Jules et Jim (1962)"
+title: "Breathless (1960) & Jules et Jim (1962)"
+headerimage: 'https://4.bp.blogspot.com/_ELPg41ew1mY/TQYmsTXzSfI/AAAAAAAAAN4/Up79CA-felI/s1600/Jules+et+Jim++.jpg'
 tags: doublefeatures film
 author: Emmanuel Menon
 lang: en_AU

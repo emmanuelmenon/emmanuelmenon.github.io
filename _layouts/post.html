@@ -1,9 +1,18 @@
 ---
 layout: default
 ---
-<article>
+<article class="post">
     <h1>{{ page.title }}</h1>
     {% if page.subtitle != "" %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
-    <div class="post">{{ content }}</div>
-    {% include post-meta.html %}
+    <hr>
+    <p class="post-meta">By Emmanuel Harish Menon // Posted on: {{ page.date | date: "%b %d, %Y" }}</p>
+    <hr>
+    {{ content }}
+    <hr>
+    <p class="smaller-text uppercase-text"><i class="fa fa-tag fa-xs"></i> Tagged with:
+        {% for tag in page.tags %}
+        <a href="/tag/{{ tag }}/">{{ tag }}</a>
+        {% unless tag == page.tags.last %}/ {% endunless %}
+        {% endfor %}
+    </p>
 </article>

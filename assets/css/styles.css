@@ -1,117 +1,154 @@
+/* fonts */
+@import url(/assets/fonts/Montserrat/Montserrat.css);
+@font-face { font-family: 'Mini Story'; src: url('/assets/fonts/MiniStory.ttf') format("truetype"); } /* Mini Story*/
+
 /* code highlighting - monokai */
 @import url(codehighlighting.css);
 
 /*css reset - Eric Meyer*/
 a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 
-/* loads on every page */
-img.header-image { width: 25rem; margin: 0.5rem auto 0; display: block; }
-#content { border-top: 0.1rem solid #808080; padding-top: 0.3rem; }
-footer { border-top: 0.1rem solid #808080; margin-top: 0.75rem; font-size: 0.85em; }
-footer p { margin-top: 0.5rem; }
-footer form { margin-top: 0.3rem; }
-footer form input { border-radius: 1.5rem; }
+/* basic */
 body {
-	width: 35em;
-	margin: 0 auto;
-	margin-left: 31%;
-	background-color: #0F0F0F;
-	color: #d9d9d9;
-	font-family: 'Work Sans', sans-serif;
 	font-size: 100%;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
 }
+footer { padding: 1rem 2.5rem; display: block; background-color: black; color: white; }
+footer p { word-spacing: 0; }
+.search { border-radius: 1.5rem; padding-left: 0.5rem; }
+#content { margin-top: 4rem; }
+footer #search { margin: 0.9rem auto; text-align: center; }
 
-/* text */
-h1 { font-size: 2.11em; font-weight: 700; margin-top: 0!important; text-align: center; }
-h2 { font-size: 1.67em; }
-h3 { font-size: 1.33em; }
-h4 { font-size: 1.11em; }
-h5 { font-size: 1.05em; }
-h6 { font-size: 1em; }
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Caladea', serif;
-	color: #f4a460;
-	line-height: 1.25;
-	margin-top: 0.75rem;
-	margin-bottom: -0.75rem;
-}
+/* typography */
+h1 { font-size: 2.5em; font-weight: 700; line-height: 1; margin: 0.5em 0; }
+h2 { font-size: 1.75em; font-weight: 600; line-height: 1; margin: 0.714em 0; }
+h3 { font-size: 1.375em; font-weight: 500; line-height: 0.9; margin: 0.9em 0; }
+h4 { font-size: 1.125em; font-weight: 400; line-height: 1.11; margin: 1.11em 0; }
+b, strong { font-weight: 600; }
+i, em { font-style: italic; }
+sup { vertical-align: super; font-size: smaller; }
+sub { vertical-align: sub; font-size: smaller; }
+p .note { font-size: 0.875em; line-height: 1.43; margin: 1.43em 0;}
 p {
 	font-size: 1em;
+	font-weight: 400;
+	word-spacing: 0.25em;
 	line-height: 1.25;
-	margin: 0.75rem 0;
-	text-align: justify;
-	text-justify: inter-word;
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	-ms-hyphens: auto;
-	-o-hyphens: auto;
-	hyphens: auto;
-	word-break: break-word;
+	margin: 1.25em 0;
 }
-
-/* text emphasis */
-em { font-style: italic; }
-strong { font-weight: 700; }
-
-/* lists */
-#content ul li, #content ol li { line-height: 1.25; margin: 0.5rem 0 0rem 1.5rem; }
-#content ul li { list-style-type: disc; }
-#content ol li { list-style-type: lower-roman; }
+blockquote {
+	margin: 1.25em;
+	font-style: italic;
+	color: #666666;
+}
 
 /* links */
-a { color: #3496d9; }
-a:visited { color: #318dcc; }
-a:hover { color: #3db0ff; }
+a { color: inherit; font-weight: bolder; text-decoration: none; }
+a:hover { text-decoration: underline; }
+p a, li a { text-decoration: underline; }
+p a:hover, #content li a:hover { background-color: lightgrey; }
 
-/* images */
-img { max-width: 100%; }
-img.right { float: right; padding: 0.5rem 0 0.5rem 1rem; }
-img.left { float: left; padding: 0.5rem 1rem 0.5rem 0; }
-
-/* homepage post teaser */
-.post-teaser { padding: 0.15rem 0; border-bottom: 0.1rem solid #808080; }
-.post-teaser h1 a { text-decoration: none; }
-.post-teaser h6 { font-size: 0.9em; font-style: italic; margin-top: 0.5rem; text-align: center; }
-.post-teaser:first-of-type { padding-top: 0; }
-
-/* pagination buttons */
-.greyed { color: #808080; }
-.paginator { text-align: center; margin-top: 0.75rem; }
-.paginator a { text-decoration: none; }
-
-/* posts */
-hr { width: 1.25em;  opacity: 0.5; border-style: dashed; }
-article { padding: 0; }
-.post { border-bottom: 0.1rem solid #808080; }
-.post-subtitle { font-size: 0.9em; font-style: italic;  text-align: center; opacity: 0.65; }
-.post-meta { font-style: italic; font-size: 0.85em; margin-top: 0.75rem; }
-.post-meta p { margin-bottom: 0; margin-top: 0.25rem;}
-.post-meta a { text-decoration: none; }
-
-/* sidebar */
-#sidebar a { text-decoration: none; }
-#sidebar li { display: block; margin: 0.5rem 0; }
-#sidebar {
-	position: sticky;
-	z-index: 1;
-	float: left;
-	top: 0.1rem;
-	margin-top: 0rem;
-	margin-left: -12.5rem;
-	padding: 0.75rem;
-	border: 0.1rem solid #808080;
-	border-radius: 1.5rem;
-	text-align: right;
-	font-size: 1.33em;
+/* lists */
+#content ul li { list-style-type: disc; }
+#content ol li { list-style-type: decimal-leading-zero; }
+#content ul li, #content ol li {
+	list-style-position: inside;
+	margin: 0 1.25em;
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1.25;
 }
 
-/* intrisic ratio embed - Thierry Koblentz */
+/* highlight */
+::-moz-selection, ::selection { color:black; background: #FFFF66; }
+
+/* navbar */
+nav {
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 1;
+}
+nav ul {
+	overflow: hidden;
+	list-style-type: none;
+	padding: 0.25rem 0.5rem;
+	transition: 0.5s ease-in-out;
+	background-color: black;
+}
+nav li a {
+	display: block;
+	border: 0.1rem hidden black;
+	border-radius: 0.75rem;
+	padding: 1rem;
+	margin: 0.25rem;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+.left li { float: left; }
+.right li { float: right; }
+.active { background-color: white; color: black; }
+.logo a { padding: 0.1rem; }
+.logo a:hover { text-decoration: none; }
+.logo {
+	font-family: 'Mini Story', 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	transform: translateX(-50%);
+	left: 50%;
+	position: absolute;
+}
+
+/* front-page */
+.spotlight { position: relative;  height: 100vh; }
+.spotlight-image { width:100%; object-fit: cover; }
+.text-block {
+	position: absolute;
+	width: 25em;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: black;
+    color: white;
+    padding: 0 1.25rem;
+}
+.latest-posts-container { width: 66rem; border-right: 0.1em solid darkgrey; border-top: 0.1rem solid darkgrey; }
+.latest-post { display: flex; border-top: 0.1rem solid darkgrey;
+}
+.latest-post-text { float:left; padding: 0 1rem; max-width: 40rem; }
+.latest-post img { object-fit: cover; width: 42%; }
+.resume-banner { background-color: black; color: white; border-top: 0.1rem solid darkgrey; padding: 1rem;}
+
+/* posts */
+.post { width: 35em; margin: 5rem auto 0; }
+.post-meta { font-size: smaller; text-align: center; font-style: italic; word-spacing: 0.1em; }
+#markdown-toc li { list-style-type: lower-roman !important; }
+#markdown-toc::before { content: "Table of Contents:"; font-weight: bold; }
+#markdown-toc {
+    border: 0.1rem solid lightgrey;
+	margin-top: 0.75em;
+    padding: 0.5rem 1.5rem;
+    display: inline-block;
+}
+
+/* Other Main Pages */
+.basepage {
+	width: 60em;
+	margin: 0 auto;
+	padding: 1rem 2.5rem;
+	border-left: 0.1rem solid lightgrey;
+	border-right: 0.1rem solid lightgrey;
+}
+
+/* intrinsic ratio embed - Thierry Koblentz */
 .videoWrapper {
   position: relative;
   padding-bottom: calc(var(--aspect-ratio, .5625) * 100%);
   height: 0;
 }
-.videoWrapper iframe, .videoWrapper embed, .videoWrapper object {
+.videoWrapper iframe,
+.videoWrapper embed,
+.videoWrapper object {
   position: absolute;
   top: 0;
   left: 0;
@@ -119,42 +156,15 @@ article { padding: 0; }
   height: 100%;
 }
 
-/* table of contents */
-#markdown-toc::before {
-	content: "Table of Contents:";
-	font-weight: bold;
-}
-#markdown-toc {
-	width: 17.5rem;
-	border: 0.1rem solid #808080;
-	margin: 1.5rem 0.75rem 0;
-	padding: 0.75rem;
-	list-style: decimal;
-	display: inline-block;
-}
-#markdown-toc li {
-	margin: 0.3rem 1.75rem!important;
-}
-
 /* useful classes */
+.noMargin { margin: 0; }
+.marginCenter { margin: 0 auto; }
 .left { float: left; }
 .right { float: right; }
-.hide { display: none; }
-.line { width: 100%; border: 0.1rem solid #808080; border-style: solid; }
-.desktopHidden { display: none; }
 .center-text { text-align: center; }
-
-/* mobile support */
-@media screen and (max-width: 60rem) {
-	body { width: inherit; margin: 0.75rem;}
-	footer form { float: left!important; margin-top: -0.4rem; margin-bottom: 0.25rem; }
-	.desktopHidden { display: block; }
-	#content { margin-top: 0.5rem; }
-	#sidebar {
-		position: static;
-		z-index: 0;
-		float: none;
-		margin: 0;
-		text-align: center;
-	}
-}
+.smaller-text { font-size: smaller; }
+.larger-text { font-size: larger; }
+.uppercase-text { text-transform: uppercase; }
+.lowercase-text { text-transform: lowercase; }
+.hide { display: none; }
+.desktopHidden { display: none; }

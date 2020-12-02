@@ -1,0 +1,14 @@
+{% assign active = page.url | downcase | split: '/' %}
+<nav>
+    <ul>
+        <div class="left">
+            <li><a href="/about" {% if active[1] == 'about' %}class="active"{% endif %}>About</a></li>
+            <li><a href="/resume" {% if active[1] == 'resume' %}class="active"{% endif %}>Resumé</a></li>
+        </div>
+        <div class="logo"><li><a href="/">emmanuel harish menon</a></li></div>
+        <div class="right">
+            <li><a href="https://letterboxd.com/emmanuelmenon/">Letterboxd</a></li>
+            <li><a href="https://www.youtube.com/channel/UCacVgm8W7PZ_ykkMx4z-mBg/">YouTube</a></li>
+        </div>
+    </ul>
+</nav>

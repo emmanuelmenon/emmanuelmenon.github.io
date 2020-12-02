@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: basepage
 title: About
-description: Learn more about Emmanuel Menon, the author of a ~~fantastic~~ blog which covers everything from films to fiction to coding!
 ---
 # About Me
 <!-- <img src="../assets/images/aboutpage-profile.jpg" class="right" style="width: 35%; border-radius: 2.5em;"> -->
@@ -66,8 +65,9 @@ If you wish to contact me, you can do so at:
 - [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/films-by-guillermo-del-toro/)
 - Hamaguchi Ryusuke
 - Kirsten Johnson
-- Krzysztof Kieślowski
+- [Krzysztof Kieślowski](https://letterboxd.com/emmanuelmenon/list/films-by-krzysztof-kieslowski/)
 - Ingmar Bergman
+- Jacques Tati
 - Jayro Bustamante
 - Jean-Luc Godard
 - Jean-Pierre Melville
@@ -92,6 +92,7 @@ If you wish to contact me, you can do so at:
 - Ramin Bahrain
 - Richard Linklater
 - Ridley Scott
+- [Robert Bresson](https://letterboxd.com/emmanuelmenon/list/films-by-robert-bresson/)
 - [Robert Eggers](https://letterboxd.com/emmanuelmenon/list/films-by-robert-eggers/)
 - Roberto Rossellini
 - Roger Deakins (cinematographer)

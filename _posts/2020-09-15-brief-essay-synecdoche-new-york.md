@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Brief Essay About 2008's <br> Synecdoche, New York"
-subtitle: 'I would recommend that you <a href="https://justwatch.com/au/movie/synecdoche-new-york/">watch</a> the film before reading this'
+title: "A Brief Essay About 2008's Synecdoche, New York"
+headerimage: 'https://3.bp.blogspot.com/-ZNUlYEA1Mk4/VyFud5bqtbI/AAAAAAAAf_E/w_7dnN0ndE0MR4PlJRRXGoQvNRXbyWggwCLcB/s1600/Synecdoche-NY.jpg'
 tags: film
 author: Emmanuel Menon
 lang: en_AU

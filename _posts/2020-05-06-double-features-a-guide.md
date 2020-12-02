@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Double Features: A Guide"
+headerimage: 'http://pome-mag.com/wp-content/uploads/2015/10/header.jpg'
 tags: doublefeatures film
 author: Emmanuel Menon
 lang: en_AU

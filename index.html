@@ -1,34 +1,49 @@
 ---
 layout: default
 title: Home Page
-description: The homepage of the blog of the recluse known only as Emmanuel Menon
 ---
-{% for post in paginator.posts %}
-	<div class="post-teaser">
-		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<h6>{{ post.date | date: "%B %d, %Y" }}</h6>
-		<p>{{ post.excerpt | strip_html  }}(<a href="{{ post.url }}">Continue Reading</a>)</p>
-	</div>
+<div class="spotlight">
+{% for post in site.posts limit:1 %}
+     <a href="{{ post.url }}"><img src="{{ post.headerimage }}" class="spotlight spotlight-image"></a>
+     <div class="text-block">
+         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+         <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+         <p>{{ post.excerpt | strip_html }}<a href="{{ post.url }}">[...]</a></p>
+     </div>
 {% endfor %}
+</div>
 
-{% if paginator.total_pages > 1 %}
-	<div class="paginator">
-		{% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-				<a class="left" href="/">&larr; Newer</a>
-			{% else %}
-				<a class="left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
-			{% endif %}
-		{% else %}
-			<span class="greyed left">&larr; Newer</span>
-		{% endif %}
+<div class="latest-posts-container">
+    <h1 style="padding-left: 1.25rem;">Latest Mind Dumps</h1>
+    {% for post in site.posts offset:1 limit:3 %}
+    <div class="latest-post">
+        <img src="{{ post.headerimage }}">
+        <div class="latest-post-text">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+            <p>{{ post.excerpt | strip_html }}<a href="{{ post.url }}">[...]</a></p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
 
-		<span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+<div class="resume-banner">
+    <h1>LOOKING FOR MY RESUME?</h1>
+    <h4>You can check it out <a href="/resume">here</a>.</h4>
+</div>
 
-		{% if paginator.next_page %}
-			<a class="right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
-		{% else %}
-			<span class="greyed right">Older &rarr;</span>
-		{% endif %}
-	</div>
-{% endif %}
+<div class="latest-posts-container">
+    {% for post in site.posts offset:4 limit:5 %}
+    <div class="latest-post">
+        <img src="{{ post.headerimage }}">
+        <div class="latest-post-text">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h4>{{ post.date | date: '%B %d, %Y' }}</h4>
+            <p>{{ post.excerpt | strip_html }}<a href="{{ post.url }}">[...]</a></p>
+        </div>
+    </div>
+    {% endfor %}
+    <div class="latest-post">
+    <h4 style="margin: 1rem auto;"><a href="/archive">More Posts...</a></h4>
+    </div>
+</div>
