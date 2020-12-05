@@ -67,15 +67,15 @@ p a:hover, #content li a:hover { background-color: lightgrey; }
 nav {
 	width: 100%;
 	position: fixed;
-	top: 0;
 	z-index: 1;
+	top: 0;
+	color: white;
+	background-color: black;
 }
 nav ul {
 	overflow: hidden;
 	list-style-type: none;
 	padding: 0.25rem 0.5rem;
-	transition: 0.5s ease-in-out;
-	background-color: black;
 }
 nav li a {
 	display: block;
@@ -83,7 +83,6 @@ nav li a {
 	border-radius: 0.75rem;
 	padding: 1rem;
 	margin: 0.25rem;
-	color: white;
 	text-align: center;
 	text-decoration: none;
 }
@@ -95,13 +94,15 @@ nav li a {
 .logo {
 	font-family: 'Mini Story', 'Montserrat', sans-serif;
 	font-size: 2.5rem;
-	transform: translateX(-50%);
-	left: 50%;
+	float: none;
 	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 /* front-page */
-.spotlight { position: relative;  height: 100vh; }
+.spotlight { position: relative; height: 100vh; }
 .spotlight-image { width:100%; object-fit: cover; }
 .text-block {
 	position: absolute;
@@ -115,7 +116,7 @@ nav li a {
 .latest-posts-container { width: 66rem; border-right: 0.1em solid darkgrey; border-top: 0.1rem solid darkgrey; }
 .latest-post { display: flex; border-top: 0.1rem solid darkgrey;
 }
-.latest-post-text { float:left; padding: 0 1rem; max-width: 40rem; }
+.latest-post-text { float: left; padding: 0 1rem; max-width: 40rem; }
 .latest-post img { object-fit: cover; width: 42%; }
 .resume-banner { background-color: black; color: white; border-top: 0.1rem solid darkgrey; padding: 1rem;}
 
@@ -131,7 +132,7 @@ nav li a {
     display: inline-block;
 }
 
-/* Other Main Pages */
+/* other main pages */
 .basepage {
 	width: 60em;
 	margin: 0 auto;
@@ -168,3 +169,42 @@ nav li a {
 .lowercase-text { text-transform: lowercase; }
 .hide { display: none; }
 .desktopHidden { display: none; }
+
+/* mobile! */
+@media only screen and (max-device-width: 65.5em) {
+	.desktopHidden { display: inherit!important; }
+
+	/* navbar */
+	nav ul div.right, nav ul div.left, .right li, .left li { float: none; }
+	.logo { font-size: 1.75em; margin-top: 0.5rem; float: left; position: inherit; transform: none; }
+	.overlayContent { display: none; }
+	nav ul li.overlayContent { width: 100%; }
+	nav {
+		width: 100%;
+		overflow: hidden;
+		position: fixed;
+		z-index: 1;
+		left: 0;
+		top: 0;
+		overflow-x: hidden;
+	}
+
+	/* front page */
+	.spotlight { height: auto; }
+	.spotlight-image { max-height: 15rem; object-fit: cover; }
+	.text-block {
+		position: initial;
+		margin-top: -1rem;
+		width: auto;
+		padding: 0.5rem 1.25rem;
+		text-align: center;
+	}
+	.latest-posts-container { width: auto; border-left: 0.1rem solid darkgrey; }
+
+	/* other main pages */
+	.basepage, .post { width: auto; margin-top: 0; border: 0; padding: 0 0.75rem; overflow: auto; }
+	.basepage h1, .post h1, .post-meta { text-align: center; }
+
+	/* footer */
+	footer { font-size: smaller; }
+}

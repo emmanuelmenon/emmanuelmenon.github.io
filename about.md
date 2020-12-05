@@ -3,8 +3,7 @@ layout: basepage
 title: About
 ---
 # About Me
-<!-- <img src="../assets/images/aboutpage-profile.jpg" class="right" style="width: 35%; border-radius: 2.5em;"> -->
-Hey there! Welcome to my blog! I'm Emmanuel Menon, a world-renowned recluse who enjoys watching films and learning new things, things that I will probably never use in day to day life. Pictured to the right is me, emerging from my cave.
+Hey there! Welcome to my blog! I'm Emmanuel Menon, a guy who enjoys watching films and learning new things, things that I will probably never use in day to day life.
 
 If you are interested, check out my film reviews on [Letterboxd](https://letterboxd.com/emmanuelmenon). Letterboxd is also kind enough to generate some statistics based on my movie logging. You can find my all-time (well, since the 14th of October 2018) stats [here](https://letterboxd.com/emmanuelmenon/stats/) or this year's stats [here](https://letterboxd.com/emmanuelmenon/year/{{ site.time | date: '%Y' }}/). My GitHub is also available [here](https://github.com/emmanuelmenon/).
 <br>
@@ -125,3 +124,5 @@ If you wish to contact me, you can do so at:
 - [Palme d'Or Winners](https://letterboxd.com/connordenney/list/palme-dor/)
 - [Scorsese's 39 Foreign Films](https://letterboxd.com/mitchelllyon/list/scorsese-foreign-film-list/)
 - [Scorsese's List of Films for Aspiring Filmmakers](https://letterboxd.com/cauleyfilms/list/scorseses-list-of-85-films-every-aspiring/)
+
+<p class="desktopHidden"></p>

@@ -43,3 +43,5 @@ title: Resumé
     - Company Name: Veritec
     - Phone Number: +61 401 609 112
     - Email: subjectification[at]gmail.com
+
+<p class="desktopHidden"></p>
