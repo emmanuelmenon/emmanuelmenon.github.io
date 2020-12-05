@@ -176,7 +176,7 @@ nav li a {
 
 	/* navbar */
 	nav ul div.right, nav ul div.left, .right li, .left li { float: none; }
-	.logo { font-size: 1.75em; margin-top: 0.5rem; float: left; position: inherit; transform: none; }
+	.logo { font-size: 1.5em; margin-top: 0.66rem; float: left; position: inherit; transform: none; }
 	.overlayContent { display: none; }
 	nav ul li.overlayContent { width: 100%; }
 	nav {
