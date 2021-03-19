@@ -3,7 +3,7 @@ layout: basepage
 title: About
 ---
 # About Me
-Hey there! Welcome to my blog! I'm Emmanuel Menon, a guy who enjoys watching films and learning new things, things that I will probably never use in day to day life.
+Hey there, welcome to my blog! I'm just a guy who enjoys watching films and learning new things, things that I will probably never use in day to day life.
 
 If you are interested, check out my film reviews on [Letterboxd](https://letterboxd.com/emmanuelmenon). Letterboxd is also kind enough to generate some statistics based on my movie logging. You can find my all-time (well, since the 14th of October 2018) stats [here](https://letterboxd.com/emmanuelmenon/stats/) or this year's stats [here](https://letterboxd.com/emmanuelmenon/year/{{ site.time | date: '%Y' }}/). My GitHub is also available [here](https://github.com/emmanuelmenon/).
 <br>
@@ -16,20 +16,21 @@ If you wish to contact me, you can do so at:
 <br>
 *All content posted on this blog belongs to me, unless explicitly stated otherwise.*
 
+
 ## Lists
 ### Completed Filmographies
-- [Quentin Tarantino](https://letterboxd.com/emmanuelmenon/list/films-by-quentin-tarantino-ranked/)
-- [Edgar Wright](https://letterboxd.com/emmanuelmenon/list/films-by-edgar-wright-ranked/)
-- [Taika Waititi](https://letterboxd.com/emmanuelmenon/list/films-by-taika-waititi-ranked/)
-- [Martin McDonagh](https://letterboxd.com/emmanuelmenon/list/films-by-martin-mcdonagh-ranked/)
-- [Greta Gerwig](https://letterboxd.com/emmanuelmenon/list/films-by-greta-gerwig-ranked/)
-- [The Safdie Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-safdie-brothers-ranked/)
-- [Christopher Nolan](https://letterboxd.com/emmanuelmenon/list/films-by-christopher-nolan-ranked/)
-- [Damien Chazelle](https://letterboxd.com/emmanuelmenon/list/films-by-damien-chazelle-ranked/)
-- [David Fincher](https://letterboxd.com/emmanuelmenon/list/films-by-david-fincher-ranked/)
-- [Wes Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-wes-anderson-ranked/)
-- [Paul Thomas Anderson](https://letterboxd.com/emmanuelmenon/list/films-by-paul-thomas-anderson-ranked/)
-- [Ari Aster](https://letterboxd.com/emmanuelmenon/list/films-by-ari-aster-ranked/)
+- Quentin Tarantino
+- Edgar Wright
+- Taika Waititi
+- Martin McDonagh
+- Greta Gerwig
+- The Safdie Brothers
+- Christopher Nolan
+- Damien Chazelle
+- David Fincher
+- Wes Anderson
+- Paul Thomas Anderson
+- Ari Aster
 
 ### Uncompleted Filmographies
 - Akira Kurosawa
@@ -48,7 +49,7 @@ If you wish to contact me, you can do so at:
 - Bong Joon Ho
 - Charlie Kaufman
 - Chloé Zhao
-- [The Coen Brothers](https://letterboxd.com/emmanuelmenon/list/films-by-the-coen-brothers/)
+- The Coen Brothers
 - Darren Aronofsky
 - David Cronenberg
 - David Lynch
@@ -61,10 +62,10 @@ If you wish to contact me, you can do so at:
 - Francis Lee
 - François Truffaut
 - F. W. Murnau
-- [Guillermo Del Toro](https://letterboxd.com/emmanuelmenon/list/films-by-guillermo-del-toro/)
+- Guillermo Del Toro
 - Hamaguchi Ryusuke
 - Kirsten Johnson
-- [Krzysztof Kieślowski](https://letterboxd.com/emmanuelmenon/list/films-by-krzysztof-kieslowski/)
+- Krzysztof Kieślowski
 - Ingmar Bergman
 - Jacques Tati
 - Jayro Bustamante
@@ -91,8 +92,8 @@ If you wish to contact me, you can do so at:
 - Ramin Bahrain
 - Richard Linklater
 - Ridley Scott
-- [Robert Bresson](https://letterboxd.com/emmanuelmenon/list/films-by-robert-bresson/)
-- [Robert Eggers](https://letterboxd.com/emmanuelmenon/list/films-by-robert-eggers/)
+- Robert Bresson
+- Robert Eggers
 - Roberto Rossellini
 - Roger Deakins (cinematographer)
 - Roman Polanski

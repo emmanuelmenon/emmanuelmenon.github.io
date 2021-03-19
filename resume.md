@@ -32,16 +32,11 @@ title: Resumé
 - [Movie Reviews](https://letterboxd.com/emmanuelmenon) <sup>[letterboxd.com/emmanuelmenon]</sup>
 
 ## Education
-- **ACT High School Certificate, Alfred Deakin High School, Canberra** <sup>*January 2017 - December 2020*</sup>
+- **ACT Senior Secondary Certificate, Narrabundah College, Canberra** <sup>*February 2021 - Present*</sup>
+- **ACT High School Certificate, Alfred Deakin High School, Canberra** <sup>*February 2017 - December 2020*</sup>
     - Highlights include:
         - developing an **Ultrasonic Radar** in Year 8
         - receiving an award for **Academic Excellence** in Mathematics
         - creating multiple short films as well as a [30-minute retrospective](https://youtu.be/ieKmyYTtG5k) on the Class of 2020 and their time at Deakin.
-
-## References
-- **David O'Donohue**
-    - Company Name: Veritec
-    - Phone Number: +61 401 609 112
-    - Email: subjectification[at]gmail.com
 
 <p class="desktopHidden"></p>
