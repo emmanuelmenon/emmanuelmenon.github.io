@@ -11,6 +11,7 @@ title: Resumé
 ## Employment History
 - **Customer Service Team Member, KFC Tuggeranong** <sup>*July 2019 - March 2020*</sup>
 - **Trainee Video Producer, Australian Progressive Media** <sup>*June 2020 - September 2020*</sup>
+- **Customer Service Team Member, KFC Fyshwick** <sup>*May 2021 - Present*</sup>
 
 ## Core Skills
 - Work Ethic
@@ -29,7 +30,7 @@ title: Resumé
 ## Relevant Links
 - [Personal Site](https://emmanuelmenon.com/) <sup>[emmanuelmenon.com]</sup>
 - [GitHub](https://github.com/emmanuelmenon/) <sup>[github.com/emmanuelmenon]</sup>
-- [Movie Reviews](https://letterboxd.com/emmanuelmenon) <sup>[letterboxd.com/emmanuelmenon]</sup>
+- [Letterboxd](https://letterboxd.com/emmanuelmenon) <sup>[letterboxd.com/emmanuelmenon]</sup>
 
 ## Education
 - **ACT Senior Secondary Certificate, Narrabundah College, Canberra** <sup>*February 2021 - Present*</sup>
