@@ -17,11 +17,11 @@ If you wish to contact me, you can do so at:
 *All content posted on this blog belongs to me, unless explicitly stated otherwise.*
 
 ### Lists I want to complete
-- [My Own Watchlist](https://letterboxd.com/emmanuelmenon/watchlist/)
-- [BFI: 2012 Director's Top 100](https://letterboxd.com/liveandrew/list/bfi-2012-directors-top-100-films/)
-- [BFI: 2012 Critics Top 250](https://letterboxd.com/liveandrew/list/bfi-2012-critics-top-250-films/)
-- [Palme d'Or Winners](https://letterboxd.com/connordenney/list/palme-dor/)
-- [Scorsese's 39 Foreign Films](https://letterboxd.com/mitchelllyon/list/scorsese-foreign-film-list/)
-- [Scorsese's List of Films for Aspiring Filmmakers](https://letterboxd.com/cauleyfilms/list/scorseses-list-of-85-films-every-aspiring/)
+- <i class="fa fa-external-link"></i> [My Own Watchlist](https://letterboxd.com/emmanuelmenon/watchlist/)
+- <i class="fa fa-external-link"></i> [BFI: 2012 Director's Top 100](https://letterboxd.com/liveandrew/list/bfi-2012-directors-top-100-films/)
+- <i class="fa fa-external-link"></i> [BFI: 2012 Critics Top 250](https://letterboxd.com/liveandrew/list/bfi-2012-critics-top-250-films/)
+- <i class="fa fa-external-link"></i> [Palme d'Or Winners](https://letterboxd.com/connordenney/list/palme-dor/)
+- <i class="fa fa-external-link"></i> [Scorsese's 39 Foreign Films](https://letterboxd.com/mitchelllyon/list/scorsese-foreign-film-list/)
+- <i class="fa fa-external-link"></i> [Scorsese's List of Films for Aspiring Filmmakers](https://letterboxd.com/cauleyfilms/list/scorseses-list-of-85-films-every-aspiring/)
 
 <p class="desktopHidden"></p>
