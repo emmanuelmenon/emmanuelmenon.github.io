@@ -11,7 +11,7 @@ If you are interested, check out my film reviews on [Letterboxd](https://letterb
 <p class="center-text">
 If you wish to contact me, you can do so at:
 <br>
-<i>contact[at]emmanuelmenon.com</i>
+<i>hello[at]emmanuelmenon.com</i>
 </p>
 <br>
 *All content posted on this blog belongs to me, unless explicitly stated otherwise.*

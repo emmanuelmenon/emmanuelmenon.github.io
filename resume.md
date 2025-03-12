@@ -3,7 +3,7 @@ layout: basepage
 title: Resumé
 ---
 # Resumé
-*Email Address: resume[at]emmanuelmenon.com*
+*Email Address: hello[at]emmanuelmenon.com*
 
 ## Professional Summary
 Highly motivated **Screen Production** student with expertise in **filmmaking, video production, and programming**. Passionate about blending creativity and technology, with deep understanding in **AI** and **computer science** through online courses from MIT and the University of Helsinki. Due to complete a **Bachelor's Degree in Screen Production** in November 2025. Skilled in managing projects, working on short films, and excelling in fast-paced environments. Strong background in customer service, with exceptional communication and problem-solving abilities.
@@ -40,5 +40,5 @@ Highly motivated **Screen Production** student with expertise in **filmmaking, v
 ## Portfolio
 - [Personal Site](https://emmanuelmenon.com/) <sup>[emmanuelmenon.com]</sup>
 - [GitHub](https://github.com/emmanuelmenon/) <sup>[github.com/emmanuelmenon]</sup>
-- 
+-
 <p class="desktopHidden"></p>
